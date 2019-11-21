@@ -1,5 +1,4 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -17,11 +16,6 @@ author_url: http://banszd.top
 organization: TEELAB
 organization_url: 
 contact: contact[at]irockbunny[dot]com
-
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
