@@ -309,31 +309,31 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 有趣网址
     links:
     - name: 北邮官网
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: 
 
     - name: 官方导航
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: 
 
     - name: 本科教务系统
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: 
 
     - name: 研究生教务系统
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: 
 
     - name: 教务处
       style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: 
 
     - name: 北邮人论坛
       style: basic
-      url: https://bbs.byr.cn/
+      url: 
 
     - name: 北邮人BT
       style: blue
