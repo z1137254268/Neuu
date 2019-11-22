@@ -311,11 +311,11 @@
 - categories:
   - name: 有趣网址
     links:
-    - name: 北邮官网
+    - name: 
       style: basic
       url: 
 
-    - name: 官方导航
+    - name: 
       style: basic
       url: 
 
@@ -323,113 +323,113 @@
       style: basic
       url: 
 
-    - name: 研究生教务系统
+    - name: 
       style: basic
       url: 
 
-    - name: 教务处
+    - name: 
       style: basic
       url: 
 
-    - name: 北邮人论坛
+    - name: 
       style: basic
       url: 
 
-    - name: 北邮人BT
+    - name: 
       style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: 
 
-    - name: 北邮IPTV
+    - name: 
       style: basic
-      url: http://tv.byr.cn/
+      url: 
 
-    - name: 信息门户
+    - name: 
       style: basic
-      url: http://my.bupt.edu.cn/
+      url: 
 
-    - name: 图书馆
+    - name: 
       style: basic
-      url: http://lib.bupt.edu.cn/
+      url: 
 
-    - name: 北邮贴吧
+    - name: 
       style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+      url: 
 
-    - name: 校园网
+    - name: 
       style: basic
-      url: http://nic.bupt.edu.cn/
+      url: 
 
-    - name: 北邮邮箱
+    - name: 
       style: basic
-      url: http://mail.bupt.edu.cn/
+      url: 
 
-    - name: VPN服务
+    - name: 
       style: basic
-      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
+      url: 
 
-    - name: 空闲自习室查询
+    - name: 
       style: basic
-      url: http://buptclass.com/
+      url: 
 
-  - name: 校园助手
+  - name: 
     links:
-    - name: 空余教室查询
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: 
 
-    - name: 辅修专业
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: 
 
-    - name: 毕业设计
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: 
 
-    - name: 学生校际选修
+    - name: 
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: 
 
-    - name: 创新学分
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: 
 
-    - name: 课表查询
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: 
 
-    - name: 考表查询
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+      url: 
 
-    - name: 出国成绩单办理
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: 
 
-    - name: 教学事务流程
+    - name: 
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+      url: 
 
-    - name: 创新实践平台
+    - name: 
       style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
+      url: 
 
-    - name: 申请护照通行证
+    - name: 
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: 
 
-    - name: 补办学生证
+    - name: 
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: 
 
-    - name: 校园一卡通
+    - name: 
       style: basic
-      url: http://ecard.bupt.edu.cn/
+      url: 
 
-    - name: 办公电话
+    - name: 
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
+      url: 
 
-    - name: 校历
+    - name: 
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+      url: 
 
