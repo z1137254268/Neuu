@@ -427,8 +427,7 @@
       style: orange
       url: https://douyu.com/
 
-- categories:
-  - name: 有趣音乐网站
+ - name: 有趣音乐网站
     links:
     - name: MIKU音乐
       style: basic
