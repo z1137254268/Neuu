@@ -197,6 +197,26 @@
       style: basic
       url: https://www.frienda.space
       
+    - name: 生成业界知名LOGO
+      style: basic
+      url: https://logoly.pro/#/
+      
+    - name: 抠图工具
+      style: basic
+      url: http://www.picup.ai
+      
+    - name: 鼠标操作专门练习器
+      style: basic
+      url: http://www.aimbooster.com
+      
+    - name: 智能识别图片内容
+      style: basic
+      url: https://www.captionbot.ai
+      
+    - name: 制作海报和传单
+      style: basic
+      url: https://www.fotor.com.cn
+      
   - name: 社交
     links:
     - name: 微博
