@@ -1,4 +1,23 @@
 - categories:
+  - name: Neu
+    links:
+    - name: 小屋
+      style: Neu
+      url: http://banszd.top.com/
+
+    - name: 网盘
+      style: blue
+      url: https://guhezhu.top/
+
+
+
+
+
+
+
+
+
+- categories:
   - name: 购物
     links:
     - name: 淘宝
