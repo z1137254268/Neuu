@@ -195,7 +195,7 @@
           
     - name: 生成朋友间的保密协议
       style: basic
-      url:  https://www.frienda.space
+      url: https://www.frienda.space
 
     - name: 生成业界知名LOGO
       style: basic
@@ -219,11 +219,11 @@
 
     - name: 钢琴秀技辅助
       style: basic
-      url:  https://piano-genie.glitch.me
+      url: https://piano-genie.glitch.me
       
     - name: Youtube多视频混音制作
       style: basic
-      url:  https://rave.dj
+      url: https://rave.dj
       
     - name: 发送带动画的短信
       style: basic
