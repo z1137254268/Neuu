@@ -1,8 +1,8 @@
 - categories:
   - name: Neu
     links:
-    - name: 小屋
-      style: Neu
+    - name: NEU
+      style: basic
       url: http://banszd.top.com/
 
     - name: 网盘
