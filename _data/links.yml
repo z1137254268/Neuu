@@ -13,6 +13,20 @@
       style: basic
       url: https://www.jd.com/
 
+  - name: 购物
+    links:
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
+
     - name: Amazon
       icon: amazon yellow
       style: basic
