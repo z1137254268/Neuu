@@ -217,6 +217,30 @@
       style: basic
       url: https://www.fotor.com.cn
       
+    - name: 钢琴秀技辅助
+      style: basic
+      url: https://piano-genie.glitch.me
+      
+    - name: Youtube多视频混音制作
+      style: basic
+      url: https://rave.dj
+      
+    - name: 发送带动画的短信
+      style: basic
+      url: https://typatone.com
+      
+    - name: 制作MEME配文图片
+      style: basic
+      url: https://imgflip.com
+      
+    - name: 实用绑绳方法大全
+      style: basic
+      url: https://www.animatedknots.com
+      
+    - name: 人工智能识别涂鸦
+      style: basic
+      url: https://quickdraw.withgoogle.com      
+      
   - name: 社交
     links:
     - name: 微博
