@@ -24,15 +24,7 @@
     - name: 直连3
       style: black
       url: https://loli.loli123.workers.dev/-----https://www.baidu.com/
-
-
-
-
-
-
-
-
-
+      
 - categories:
   - name: 购物
     links:
@@ -246,9 +238,7 @@
       style: basic
       url: https://quickdraw.withgoogle.com
 
-
-
-  - name: 社交
+ - name: 社交
     links:
     - name: 微博
       icon: weibo red
