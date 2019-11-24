@@ -432,21 +432,21 @@
 
   - name: 有趣音乐网站
     links:
-    - name: 
+    - name: MIKU音乐
       style: basic
-      url: 
+      url: http://neu.6te.net
 
-    - name: 
+    - name: MIKU音乐（备用）
       style: basic
-      url: 
+      url: https://z1137254268.github.io/Neu/1/
 
-    - name: 
+    - name: 手鼓猫
       style: basic
-      url: 
+      url: https://bongo.cat
 
-    - name: 
+    - name: 手鼓猫（备用）
       style: basic
-      url: 
+      url: https://z1137254268.github.io/bongo.cat/
 
     - name: 
       style: basic
