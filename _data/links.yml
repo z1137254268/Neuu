@@ -1,10 +1,9 @@
-    
-- categories:
-  - name: 购物
+ - categories:
+  - name: NEU
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
+    - name: Neu
+      style: basic
+      url: https://banszd.top/
 
     - name: 网盘
       style: blue
