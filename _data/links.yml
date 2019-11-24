@@ -1,243 +1,137 @@
 - categories:
-  - name: NEU
+  - name: 购物
     links:
-    - name: Neu
-      style: basic
-      url: https://banszd.top/
-
-    - name: 网盘
-      style: blue
-      url: http://guhezhu.top/
-          
-    - name: GD网盘
-      style: Light blue
-      url: http://gd.banszd.top/
-      
-    - name: 直连1
-      style: black
-      url: https://loli.loli1.workers.dev/-----https://www.baidu.com/
-      
-    - name: 直连2
-      style: black
-      url: https://loli.loli12.workers.dev/-----https://www.baidu.com/
-      
-    - name: 直连3
-      style: black
-      url: https://loli.loli123.workers.dev/-----https://www.baidu.com/
-      
- - name: 购物
-   links:
-   - name: 淘宝
+    - name: 淘宝
       style: orange
       url: https://www.taobao.com/
 
-   - name: 天猫
+    - name: 天猫
       style: red
       url: https://www.tmall.com/
 
-   - name: 京东
+    - name: 京东
       style: basic
       url: https://www.jd.com/
 
-   - name: Amazon
+    - name: Amazon
       icon: amazon yellow
       style: basic
       url: https://www.amazon.cn/
 
-   - name: Apple
+    - name: Apple
       style: basic
       icon: apple grey
       url: https://www.apple.com/
 
-   - name: 一号店
+    - name: 一号店
       style: basic
       url: https://www.yhd.com/
 
-   - name: 当当
+    - name: 当当
       style: basic
       url: http://www.dangdang.com/
 
-   - name: 严选
+    - name: 严选
       style: basic
       url: http://you.163.com/
 
-   - name: UNIQLO
+    - name: UNIQLO
       style: red
       url: http://www.uniqlo.cn/
 
-   - name: MUJI
+    - name: MUJI
       style: basic
       url: http://www.muji.com.cn/
 
-   - name: IKEA
+    - name: IKEA
       style: yellow
       url: https://www.ikea.cn/
 
-   - name: Decathlon
+    - name: Decathlon
       style: blue
       url: https://www.decathlon.com.cn/
 
-   - name: 造作
+    - name: 造作
       style: basic
       url: https://zaozuo.com/
 
-   - name: 锤子
+    - name: 锤子
       style: basic
       url: http://www.smartisan.com/
 
-   - name: 大疆
+    - name: 大疆
       style: black
       url: https://www.dji.com/
 
-   - name: 小米
+    - name: 小米
       style: orange
       url: https://www.mi.com/
 
-   - name: 有品
+    - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
 
- - name: 工具
-   links:
-   - name: '12306'
+  - name: 工具
+    links:
+    - name: '12306'
       icon: train red
       style: basic
       url: http://www.12306.cn/
 
-   - name: 快递查询
+    - name: 快递查询
       icon: truck olive
       style: basic
       url: http://www.kuaidi100.com/
 
-   - name: 大众点评
+    - name: 大众点评
       icon: utensils orange
       style: basic
       url: http://www.dianping.com/
 
-   - name: 网易邮箱
+    - name: 网易邮箱
       icon: envelope red
       style: basic
       url: http://email.163.com/
 
-   - name: QQ邮箱
+    - name: QQ邮箱
       icon: qq black
       style: basic
       url: https://mail.qq.com/
 
-   - name: 新浪邮箱
+    - name: 新浪邮箱
       style: basic
       url: https://mail.sina.com.cn/
 
-   - name: Gmail
+    - name: Gmail
       icon: google red
       style: basic
       url: https://mail.google.com/
 
-   - name: 谷歌翻译
+    - name: 谷歌翻译
       icon: language blue
       style: basic
       url: https://translate.google.com/
 
-   - name: 百度翻译
+    - name: 百度翻译
       icon: paw blue
       style: basic
       url: https://fanyi.baidu.com/
 
-   - name: 维基百科
+    - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-   - name: 彩云天气
+    - name: 彩云天气
       icon: cloud olive
       style: basic
       url: http://caiyunapp.com/map
 
-   - name: 天眼查
+    - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
-      
-   - name: 压缩网址
-      style: basic
-      url: http://neuu.byethost18.com/?i=1
 
-   - name: 压缩网址
-      style: basic
-      url: https://www.dh6.ink
-
-   - name: MIKUtools工具集合
-      style: basic
-      url: https://tools.miku.ac
-
-   - name: 全国税后工资计算器
-      style: basic
-      url: https://hizdm.cn
-
-   - name: 表格转换工具
-      style: basic
-      url: https://tableconvert.com
-     
-   - name: Instagram风格字体生成器
-      style: basic
-      url: https://igfonts.io
-
-   - name: 仿真手写文稿生成器
-      style: basic
-      url: http://www.beautifulcarrot.com
-
-   - name: 视频编辑工具集
-      style: basic
-      url: https://beecut.cn/online-video-editor
-
-   - name: 生成朋友间的保密协议
-      style: basic
-      url: https://www.frienda.space
-
-   - name: 生成业界知名LOGO
-      style: basic
-      url: https://logoly.pro/#/
-
-   - name: 抠图工具
-      style: basic
-      url: http://www.picup.ai
-
-   - name: 鼠标操作专门练习器
-      style: basic
-      url: http://www.aimbooster.com
-
-   - name: 智能识别图片内容
-      style: basic
-      url: https://www.captionbot.ai
-
-   - name: 制作海报和传单
-      style: basic
-      url: https://www.fotor.com.cn
-
-   - name: 钢琴秀技辅助
-      style: basic
-      url: https://piano-genie.glitch.me
-
-   - name: Youtube多视频混音制作
-      style: basic
-      url: https://rave.dj
-
-   - name: 发送带动画的短信
-      style: basic
-      url: https://typatone.com
-
-   - name: 制作MEME配文图片
-      style: basic
-      url: https://imgflip.com
-
-   - name: 实用绑绳方法大全
-      style: basic
-      url: https://www.animatedknots.com
-
-   - name: 人工智能识别涂鸦
-      style: basic
-      url: https://quickdraw.withgoogle.com
-
- - name: 社交
+  - name: 社交
     links:
     - name: 微博
       icon: weibo red
@@ -338,24 +232,8 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 影视娱乐
+  - name: 娱乐
     links:
-    - name: 哔哩哔哩
-      style: pink
-      url: https://bilibili.com/ 
-      
-    - name: AGE
-      style: black
-      url: https://age.fan
-          
-    - name: 樱花
-      style: pink
-      url: http://www.imomoe.io
-      
-    - name: 扶她404
-      style: purple
-      url: http://www.futa404.com
-      
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -380,6 +258,10 @@
     - name: 腾讯视频
       style: basic
       url: https://v.qq.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: https://bilibili.com/
 
     # - name: AcFun
     #   style: basic
@@ -426,179 +308,171 @@
       style: orange
       url: https://douyu.com/
 
- - name: 有趣音乐网站
+- categories:
+  - name: 北邮校园
     links:
-    - name: MIKU音乐
+    - name: 北邮官网
       style: basic
-      url: http://neu.6te.net
+      url: http://www.bupt.edu.cn/
 
-    - name: MIKU音乐（备用）
+    - name: 官方导航
       style: basic
-      url: https://z1137254268.github.io/Neu/1/
+      url: http://dep.bupt.edu.cn/dh/
 
-    - name: 手鼓猫
+    - name: 本科教务系统
       style: basic
-      url: https://bongo.cat
+      url: http://jwxt.bupt.edu.cn/
 
-    - name: 手鼓猫（备用）
+    - name: 研究生教务系统
       style: basic
-      url: https://z1137254268.github.io/bongo.cat/
+      url: http://yjxt.bupt.edu.cn/
 
-    - name: NSF音乐
+    - name: 教务处
       style: basic
-      url: http://nsf.mimoe.cc/#
+      url: http://jwc.bupt.edu.cn/
 
-    - name: 程序员的风琴音乐
+    - name: 北邮人论坛
       style: basic
-      url: http://my-music-diary.com
+      url: https://bbs.byr.cn/
 
-    - name: 收集免费音乐
+    - name: 北邮人BT
       style: blue
-      url: https://www.unminus.com
+      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
 
-    - name: 华纳音乐轻音乐由算法生成
+    - name: 北邮IPTV
       style: basic
-      url: https://music.apple.com/us/album/sleep-clear-night/1449049505?app=music
+      url: http://tv.byr.cn/
 
-    - name: 软件生成的音乐
+    - name: 信息门户
       style: basic
-      url: https://generative.fm
+      url: http://my.bupt.edu.cn/
 
-    - name: 可下载的音乐音效
+    - name: 图书馆
       style: basic
-      url: https://offers.adobe.com/en/na/audition/offers/audition_dlc.html
+      url: http://lib.bupt.edu.cn/
 
-    - name: 互动音乐动画背景
+    - name: 北邮贴吧
       style: basic
-      url: http://www.bbboooooommm.com
+      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
 
-    - name: 无限DJ音乐电台
+    - name: 校园网
       style: basic
-      url: http://forever.fm
+      url: http://nic.bupt.edu.cn/
 
-    - name: 组合乐器生成音乐
+    - name: 北邮邮箱
       style: basic
-      url: https://www.incredibox.com
+      url: http://mail.bupt.edu.cn/
 
-    - name: 改善睡眠的音乐
+    - name: VPN服务
       style: basic
-      url: https://www.soundsleeping.com/index.php
+      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
 
-    - name: 用手脚演奏音乐
+    - name: 空闲自习室查询
       style: basic
-      url: https://www.basics09.de/iclip/
-      
-    - name: 制作电子音乐
-      style: basic
-      url: https://www.audiotool.com/app/
+      url: http://buptclass.com/
 
-    - name: 超级玛丽各关音乐钢琴谱
-      style: basic
-      url: http://www.mariopiano.com
- 
-    - name: 轻松的音乐涂鸦网站
-      style: basic
-      url: http://tracychapman.com
-      
-    - name: 微生物版电子音乐
-      style: basic
-      url: http://seaquence.org
-
-    - name: 混制个性DJ音乐
-      style: basic
-      url: https://the.wubmachine.com
- 
-    - name: CMD命令音乐电台
-      style: basic
-      url: https://cmd.to/fm
-      
-    - name: 酷炫电子音乐生成器
-      style: basic
-      url: http://superlooper.universlabs.co.uk
-
-    - name: 促进睡眠的音乐专辑
-      style: basic
-      url: http://www.dreamingwithjeff.com
-  
-    - name: Ableton推出的学习电子音乐的网站，入门必备
-      style: basic
-      url: https://learningmusic.ableton.com/zh/
-      
-    - name: 动感音乐互动DJ体验
-      style: basic
-      url: https://www.patatap.com
-
-    - name: 有趣的音乐互动网站
-      style: basic
-      url: http://because-recollection.com
-      
-    - name: 在线弹奏DJ音乐
-      style: basic
-      url: https://www.madeon.fr/adventuremachine/?t=1,10,26,35
-      
-    - name: 假装弹奏
-      style: basic
-      url: http://touchpianist.com
-
-  - name: 测试
+  - name: 校园助手
     links:
-    - name: 
+    - name: 空余教室查询
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
 
-    - name: 
+    - name: 辅修专业
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
 
-    - name: 
+    - name: 毕业设计
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
 
-    - name: 
+    - name: 学生校际选修
       style: basic
-      url: 
+      url: http://www.xueyuanlu.cn/
 
-    - name: 
+    - name: 创新学分
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
 
-    - name: 
+    - name: 课表查询
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
 
-    - name: 
+    - name: 考表查询
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
 
-    - name: 
+    - name: 出国成绩单办理
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
 
-    - name: 
+    - name: 教学事务流程
       style: basic
-      url: 
+      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
 
-    - name: 
+    - name: 创新实践平台
       style: basic
-      url: 
+      url: http://cslab.bupt.edu.cn/innovation/
 
-    - name: 
+    - name: 申请护照通行证
       style: basic
-      url: 
+      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 
+    - name: 补办学生证
       style: basic
-      url: 
+      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 
+    - name: 校园一卡通
       style: basic
-      url: 
+      url: http://ecard.bupt.edu.cn/
 
-    - name: 
+    - name: 办公电话
       style: basic
-      url: 
+      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
 
-    - name: 
+    - name: 校历
       style: basic
-      url: 
+      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
+  - name: 论坛相关
+    links:
+    - name: 北邮人论坛
+      style: teal
+      url: http://bbs.byr.cn/
+
+    - name: 游客版论坛
+      style: basic
+      url: http://bbs.cloud.icybee.cn/
+
+    - name: 检索论坛内容
+      style: basic
+      url: http://search.icybee.cn/
+
+    - name: 检索用户发帖
+      style: basic
+      url: http://search.lovezxp.com/
+
+    - name: 查看论坛数据
+      style: basic
+      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+
+    - name: 论坛APP
+      icon: app store
+      style: black
+      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
+
+    - name: 论坛APP
+      icon: google play
+      style: black
+      url: https://github.com/dss886/BYR-BBS-APP-Release
+
+    - name: 论坛官方微博
+      style: basic
+      url: http://weibo.com/byrbbs
+
+    - name: 论坛投票区
+      style: basic
+      url: http://bbs.byr.cn/#!vote
+
+    - name: 玩转论坛指南
+      style: basic
+      url: http://bbs.byr.cn/#!article/Talking/5852307
