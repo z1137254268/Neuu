@@ -461,7 +461,14 @@
     - name: 有趣的音乐互动网站
       style: basic
       url: http://because-recollection.com
-
+      
+    - name: 在线DJ音乐
+      style: basic
+      url: https://www.madeon.fr/adventuremachine/?t=1,10,26,35
+      
+    - name: 假装弹奏
+      style: basic
+      url: http://touchpianist.com
 
   - name: 测试
     links:
