@@ -26,214 +26,214 @@
       url: https://loli.loli123.workers.dev/-----https://www.baidu.com/
       
  - name: 购物
-    links:
-    - name: 淘宝
+   links:
+   - name: 淘宝
       style: orange
       url: https://www.taobao.com/
 
-    - name: 天猫
+   - name: 天猫
       style: red
       url: https://www.tmall.com/
 
-    - name: 京东
+   - name: 京东
       style: basic
       url: https://www.jd.com/
 
-    - name: Amazon
+   - name: Amazon
       icon: amazon yellow
       style: basic
       url: https://www.amazon.cn/
 
-    - name: Apple
+   - name: Apple
       style: basic
       icon: apple grey
       url: https://www.apple.com/
 
-    - name: 一号店
+   - name: 一号店
       style: basic
       url: https://www.yhd.com/
 
-    - name: 当当
+   - name: 当当
       style: basic
       url: http://www.dangdang.com/
 
-    - name: 严选
+   - name: 严选
       style: basic
       url: http://you.163.com/
 
-    - name: UNIQLO
+   - name: UNIQLO
       style: red
       url: http://www.uniqlo.cn/
 
-    - name: MUJI
+   - name: MUJI
       style: basic
       url: http://www.muji.com.cn/
 
-    - name: IKEA
+   - name: IKEA
       style: yellow
       url: https://www.ikea.cn/
 
-    - name: Decathlon
+   - name: Decathlon
       style: blue
       url: https://www.decathlon.com.cn/
 
-    - name: 造作
+   - name: 造作
       style: basic
       url: https://zaozuo.com/
 
-    - name: 锤子
+   - name: 锤子
       style: basic
       url: http://www.smartisan.com/
 
-    - name: 大疆
+   - name: 大疆
       style: black
       url: https://www.dji.com/
 
-    - name: 小米
+   - name: 小米
       style: orange
       url: https://www.mi.com/
 
-    - name: 有品
+   - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
 
-  - name: 工具
-    links:
-    - name: '12306'
+ - name: 工具
+   links:
+   - name: '12306'
       icon: train red
       style: basic
       url: http://www.12306.cn/
 
-    - name: 快递查询
+   - name: 快递查询
       icon: truck olive
       style: basic
       url: http://www.kuaidi100.com/
 
-    - name: 大众点评
+   - name: 大众点评
       icon: utensils orange
       style: basic
       url: http://www.dianping.com/
 
-    - name: 网易邮箱
+   - name: 网易邮箱
       icon: envelope red
       style: basic
       url: http://email.163.com/
 
-    - name: QQ邮箱
+   - name: QQ邮箱
       icon: qq black
       style: basic
       url: https://mail.qq.com/
 
-    - name: 新浪邮箱
+   - name: 新浪邮箱
       style: basic
       url: https://mail.sina.com.cn/
 
-    - name: Gmail
+   - name: Gmail
       icon: google red
       style: basic
       url: https://mail.google.com/
 
-    - name: 谷歌翻译
+   - name: 谷歌翻译
       icon: language blue
       style: basic
       url: https://translate.google.com/
 
-    - name: 百度翻译
+   - name: 百度翻译
       icon: paw blue
       style: basic
       url: https://fanyi.baidu.com/
 
-    - name: 维基百科
+   - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
+   - name: 彩云天气
       icon: cloud olive
       style: basic
       url: http://caiyunapp.com/map
 
-    - name: 天眼查
+   - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
       
-    - name: 压缩网址
+   - name: 压缩网址
       style: basic
       url: http://neuu.byethost18.com/?i=1
 
-    - name: 压缩网址
+   - name: 压缩网址
       style: basic
       url: https://www.dh6.ink
 
-    - name: MIKUtools工具集合
+   - name: MIKUtools工具集合
       style: basic
       url: https://tools.miku.ac
 
-    - name: 全国税后工资计算器
+   - name: 全国税后工资计算器
       style: basic
       url: https://hizdm.cn
 
-    - name: 表格转换工具
+   - name: 表格转换工具
       style: basic
       url: https://tableconvert.com
      
-    - name: Instagram风格字体生成器
+   - name: Instagram风格字体生成器
       style: basic
       url: https://igfonts.io
 
-    - name: 仿真手写文稿生成器
+   - name: 仿真手写文稿生成器
       style: basic
       url: http://www.beautifulcarrot.com
 
-    - name: 视频编辑工具集
+   - name: 视频编辑工具集
       style: basic
       url: https://beecut.cn/online-video-editor
 
-    - name: 生成朋友间的保密协议
+   - name: 生成朋友间的保密协议
       style: basic
       url: https://www.frienda.space
 
-    - name: 生成业界知名LOGO
+   - name: 生成业界知名LOGO
       style: basic
       url: https://logoly.pro/#/
 
-    - name: 抠图工具
+   - name: 抠图工具
       style: basic
       url: http://www.picup.ai
 
-    - name: 鼠标操作专门练习器
+   - name: 鼠标操作专门练习器
       style: basic
       url: http://www.aimbooster.com
 
-    - name: 智能识别图片内容
+   - name: 智能识别图片内容
       style: basic
       url: https://www.captionbot.ai
 
-    - name: 制作海报和传单
+   - name: 制作海报和传单
       style: basic
       url: https://www.fotor.com.cn
 
-    - name: 钢琴秀技辅助
+   - name: 钢琴秀技辅助
       style: basic
       url: https://piano-genie.glitch.me
 
-    - name: Youtube多视频混音制作
+   - name: Youtube多视频混音制作
       style: basic
       url: https://rave.dj
 
-    - name: 发送带动画的短信
+   - name: 发送带动画的短信
       style: basic
       url: https://typatone.com
 
-    - name: 制作MEME配文图片
+   - name: 制作MEME配文图片
       style: basic
       url: https://imgflip.com
 
-    - name: 实用绑绳方法大全
+   - name: 实用绑绳方法大全
       style: basic
       url: https://www.animatedknots.com
 
-    - name: 人工智能识别涂鸦
+   - name: 人工智能识别涂鸦
       style: basic
       url: https://quickdraw.withgoogle.com
 
