@@ -157,6 +157,13 @@
       style: basic
       url: https://www.tianyancha.com/
 
+    - name: 压缩网址
+      style: basic
+      url: http://neuu.byethost18.com/?i=1
+
+    - name: 压缩网址
+      style: basic
+      url: https://www.dh6.ink
       
   - name: 社交
     links:
