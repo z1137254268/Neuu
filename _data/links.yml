@@ -165,6 +165,88 @@
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
+      
+    - name: 压缩网址
+      style: basic
+      url: http://neuu.byethost18.com/?i=1
+
+    - name: 压缩网址
+      style: basic
+      url: https://www.dh6.ink
+
+    - name: MIKUtools工具集合
+      style: basic
+      url: https://tools.miku.ac
+
+    - name: 全国税后工资计算器
+      style: basic
+      url: https://hizdm.cn
+
+    - name: 表格转换工具
+      style: basic
+      url: https://tableconvert.com
+     
+    - name: Instagram风格字体生成器
+      style: basic
+      url: https://igfonts.io
+
+    - name: 仿真手写文稿生成器
+      style: basic
+      url: http://www.beautifulcarrot.com
+
+    - name: 视频编辑工具集
+      style: basic
+      url: https://beecut.cn/online-video-editor
+
+    - name: 生成朋友间的保密协议
+      style: basic
+      url: https://www.frienda.space
+
+    - name: 生成业界知名LOGO
+      style: basic
+      url: https://logoly.pro/#/
+
+    - name: 抠图工具
+      style: basic
+      url: http://www.picup.ai
+
+    - name: 鼠标操作专门练习器
+      style: basic
+      url: http://www.aimbooster.com
+
+    - name: 智能识别图片内容
+      style: basic
+      url: https://www.captionbot.ai
+
+    - name: 制作海报和传单
+      style: basic
+      url: https://www.fotor.com.cn
+
+    - name: 钢琴秀技辅助
+      style: basic
+      url: https://piano-genie.glitch.me
+
+    - name: Youtube多视频混音制作
+      style: basic
+      url: https://rave.dj
+
+    - name: 发送带动画的短信
+      style: basic
+      url: https://typatone.com
+
+    - name: 制作MEME配文图片
+      style: basic
+      url: https://imgflip.com
+
+    - name: 实用绑绳方法大全
+      style: basic
+      url: https://www.animatedknots.com
+
+    - name: 人工智能识别涂鸦
+      style: basic
+      url: https://quickdraw.withgoogle.com
+
+
 
   - name: 社交
     links:
