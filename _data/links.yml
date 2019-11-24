@@ -232,11 +232,19 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 娱乐
+  - name: 影视娱乐
     links:
     - name: 哔哩哔哩
       style: pink
       url: https://bilibili.com/ 
+      
+    - name: AGE动漫
+      style: black
+      url: https://age.fan
+          
+    - name: 樱花
+      style: pink
+      url: http://www.imomoe.io
       
     - name: 优酷
       style: basic
