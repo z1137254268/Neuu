@@ -282,7 +282,7 @@
       url: http://www.imomoe.io
       
     - name: 扶她404
-      style: Violet
+      style: purple
       url: http://www.futa404.com
       
     - name: 优酷
@@ -356,67 +356,112 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 有趣网址
+  - name: 有趣音乐类型网址
     links:
-    - name: 
+    - name: MIKU音乐
       style: basic
-      url: 
+      url: http://neu.6te.net
 
-    - name: 
+    - name: MIKU音乐（备用）
       style: basic
-      url: 
+      url: https://z1137254268.github.io/Neu/1/
 
-    - name: 
+    - name: 手鼓猫
       style: basic
-      url: 
+      url: https://bongo.cat
 
-    - name: 
+    - name: 手鼓猫（备用）
       style: basic
-      url: 
+      url: https://z1137254268.github.io/bongo.cat/
 
-    - name: 
+    - name: NSF音乐
       style: basic
-      url: 
+      url: http://nsf.mimoe.cc/#
 
-    - name: 
+    - name: 程序员的风琴音乐
       style: basic
-      url: 
+      url: http://my-music-diary.com
 
-    - name: 
+    - name: 收集免费音乐
       style: blue
-      url: 
+      url: https://www.unminus.com
 
-    - name: 
+    - name: 华纳音乐轻音乐由算法生成
       style: basic
-      url: 
+      url: https://music.apple.com/us/album/sleep-clear-night/1449049505?app=music
 
-    - name: 
+    - name: 软件生成的音乐
       style: basic
-      url: 
+      url: https://generative.fm
 
-    - name: 
+    - name: 可下载的音乐音效
       style: basic
-      url: 
+      url: https://offers.adobe.com/en/na/audition/offers/audition_dlc.html
 
-    - name: 
+    - name: 互动音乐动画背景
       style: basic
-      url: 
+      url: http://www.bbboooooommm.com
 
-    - name: 
+    - name: 无限DJ音乐电台
       style: basic
-      url: 
+      url: http://forever.fm
 
-    - name: 
+    - name: 组合乐器生成音乐
       style: basic
-      url: 
+      url: https://www.incredibox.com
 
-    - name: 
+    - name: 改善睡眠的音乐
       style: basic
-      url: 
+      url: https://www.soundsleeping.com/index.php
 
-    - name: 
+    - name: 用手脚演奏音乐
       style: basic
-      url: 
+      url: https://www.basics09.de/iclip/
+      
+    - name: 制作电子音乐
+      style: basic
+      url: https://www.audiotool.com/app/
+
+    - name: 超级玛丽各关音乐钢琴谱
+      style: basic
+      url:http://www.mariopiano.com
+ 
+    - name: 轻松的音乐涂鸦网站
+      style: basic
+      url: http://tracychapman.com
+      
+    - name: 微生物版电子音乐
+      style: basic
+      url: http://seaquence.org
+
+    - name: 混制个性DJ音乐
+      style: basic
+      url: https://the.wubmachine.com
+ 
+    - name: CMD命令音乐电台
+      style: basic
+      url: https://cmd.to/fm
+      
+    - name: 酷炫电子音乐生成器
+      style: basic
+      url: http://superlooper.universlabs.co.uk
+
+    - name: 促进睡眠的音乐专辑
+      style: basic
+      url: http://www.dreamingwithjeff.com
+  
+    - name: Ableton推出的学习电子音乐的网站，入门必备
+      style: basic
+      url: https://learningmusic.ableton.com/zh/
+      
+    - name: 动感音乐互动DJ体验
+      style: basic
+      url: https://www.patatap.com
+
+    - name: 有趣的音乐互动网站
+      style: basic
+      url: http://because-recollection.com
+
 
   - name: 测试
     links:
