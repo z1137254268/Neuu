@@ -185,6 +185,18 @@
       style: basic
       url: https://igfonts.io
       
+    - name: 仿真手写文稿生成器
+      style: basic
+      url: http://www.beautifulcarrot.com
+      
+    - name: 视频编辑工具集
+      style: basic
+      url: https://beecut.cn/online-video-editor
+      
+    - name: 生成朋友间的保密协议
+      style: basic
+      url: https://www.frienda.space
+      
   - name: 社交
     links:
     - name: 微博
