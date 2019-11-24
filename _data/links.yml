@@ -3,11 +3,27 @@
     links:
     - name: NEU
       style: basic
-      url: http://banszd.top.com/
+      url: http://banszd.top./
 
     - name: 网盘
       style: blue
       url: http://guhezhu.top/
+          
+    - name: GD网盘
+      style: Light blue
+      url: http://gd.banszd.top/
+      
+    - name: 直连
+      style: black
+      url: https://loli.loli1.workers.dev/-----https://www.baidu.com/
+      
+    - name: 直连
+      style: black
+      url: https://loli.loli12.workers.dev/-----https://www.baidu.com/
+      
+    - name: 直连
+      style: black
+      url: https://loli.loli123.workers.dev/-----https://www.baidu.com/
 
 
 
