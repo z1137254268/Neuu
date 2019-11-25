@@ -496,9 +496,21 @@
       style: basic
       url: https://www.audiotool.com/app/ 
       
+    - name: 超级玛丽各关音乐钢琴谱
+      style: basic
+      url: http://www.mariopiano.com  
+      
+    - name: 轻松的音乐涂鸦网站
+      style: basic
+      url: http://tracychapman.com 
+      
+    - name: 微生物版电子音乐
+      style: basic
+      url: http://seaquence.org   
+      
     - name: 
       style: basic
-      url:        
+      url:       
 
   - name: 测试
     links:
