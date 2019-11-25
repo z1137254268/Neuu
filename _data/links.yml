@@ -28,6 +28,38 @@
     - name: H小猫屋
       style: red
       url: https://neuu.000webhostapp.com
+      
+     - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:       
 
   - name: 购物
     links:
@@ -100,6 +132,38 @@
     - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
 
   - name: 工具
     links:
@@ -281,6 +345,38 @@
       style: pink
       url: https://www.nyagal.com
       
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
+      
   - name: 社交
     links:
     - name: 微博
@@ -337,6 +433,38 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
 
   - name: 学习
     links:
@@ -381,6 +509,38 @@
     - name: 云英语
       style: black
       url: https://www.y-english.org/
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
 
   - name: 影视娱乐
     links:
@@ -479,6 +639,38 @@
     - name: 斗鱼
       style: orange
       url: https://douyu.com/
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
 
   - name: 有趣音乐
     links:
@@ -592,7 +784,103 @@
       
     - name: 假装弹奏
       style: basic
-      url: http://touchpianist.com
+      url: http://touchpianist.com 
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:  
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:  
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:        
       
 
       
