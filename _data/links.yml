@@ -247,7 +247,11 @@
       
     - name: 动漫图片人物查询
       style: pink
-      url: http://iqdb.org      
+      url: http://iqdb.org 
+      
+    - name: 临时邮箱
+      style: black
+      url: http://24mail.chacuo.net       
       
   - name: 社交
     links:
