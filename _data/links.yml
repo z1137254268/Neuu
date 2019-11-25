@@ -1660,7 +1660,47 @@
 
     - name: 在线作图，思维导图，流程图，实时协作
       style: black
-      url: https://www.processon.com
+      url: https://www.processon.com 
+      
+    - name: 把动画字幕用于吐槽生活
+      style: pink
+      url: https://as2.bitinn.net
+
+    - name: 时间胶囊
+      style: basic
+      url:  http://p.timepill.net
+
+    - name: 能看见海的车站
+      style: basic
+      url: https://seaside-station.com
+
+    - name: 寻找相似网站
+      style: basic
+      url: https://www.similarsitesearch.com/cn/
+
+    - name: 一个针对初学者或儿童的 Python 编辑器
+      style: basic
+      url: https://codewith.mu
+
+    - name: 支持各种网页音频格式解码的 JS 库
+      style: black
+      url: https://howlerjs.com
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:       
 
 
     - name: 
