@@ -910,13 +910,13 @@
       style: pink
       url: http://www.acgjc.com
 
-    - name: 
+    - name: AI音乐引擎生成音乐
       style: basic
-      url: 
+      url: https://www.aiva.ai
 
-    - name: 
+    - name: 通过绘制视觉形状，进行谱曲的网页编辑器
       style: basic
-      url: 
+      url: http://turtle.audio
       
     - name: 
       style: black
@@ -1042,9 +1042,9 @@
       style: basic
       url: https://www.shuge.org/ebook/carl-mydans-world-war-ii/
 
-    - name: 
+    - name: 芝加哥艺术学院的网站提供5万多张艺术品图片，全部都是高分辨率，而且可以免费使用
       style: basic
-      url: 
+      url: https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884?is_public_domain=1
 
     - name: 
       style: basic
@@ -1625,6 +1625,166 @@
     - name: Youtube 的教育视频
       style: basic
       url: https://news.ycombinator.com/item?id=17999659
+
+    - name: 收集了全世界网页的数据库，允许使用类似 SQL 的语法查询网页
+      style: basic
+      url: https://www.mixnode.com/blog/posts/turn-the-web-into-a-database-an-alternative-to-web-crawling-scraping
+
+    - name: VPS 搜索工具
+      style: basic
+      url:  https://anothervps.com/vps/
+      
+    - name: 英文的纯数学教材，免费下载，从简单的自然数讲起，包括代数、数论、集合运算、概率和微积分等章节。
+      style: teal
+      url: https://infinitedescent.xyz
+
+    - name: 收集纸飞机折纸方法
+      style: basic
+      url: https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
+
+    - name: 有名的微积分教材
+      style: basic
+      url: http://calculusmadeeasy.org
+
+    - name: 收集科幻影视作品里面出现的计算机界面设计
+      style: basic
+      url: https://sciencefictioninterfaces.tumblr.com
+
+    - name: 可以录制 GIF 图片的开源工具，同时还具备编辑帧、调用摄像头录制、录制画板等功能
+      style: basic
+      url: https://www.screentogif.com/?l=zh_cn
+
+    - name: 微软的在线工具，将手绘草图转成 HTML 代码
+      style: black
+      url: https://sketch2code.azurewebsites.net
+
+    - name: 在线作图，思维导图，流程图，实时协作
+      style: black
+      url: https://www.processon.com
+
+    - name: 把动画字幕用于吐槽生活
+      style: pink
+      url: https://as2.bitinn.net
+
+    - name: 时间胶囊
+      style: basic
+      url: http://p.timepill.net
+
+    - name: 能看见海的车站
+      style: basic
+      url: https://seaside-station.com
+      
+     - name: 寻找相似网站
+      style: teal
+      url: https://www.similarsitesearch.com/cn/
+
+    - name: 一个针对初学者或儿童的 Python 编辑器
+      style: basic
+      url: https://codewith.mu
+
+    - name: 支持各种网页音频格式解码的 JS 库
+      style: basic
+      url: https://howlerjs.com
+
+    - name: Crash Course中文索引
+      style: basic
+      url: https://crashcourse.club
+
+    - name: 互联网技术的发展
+      style: basic
+      url: http://www.evolutionoftheweb.com/?hl=zh-cn
+
+    - name: 一款学习编程的网页游戏
+      style: black
+      url: https://codecombat.com
+
+    - name: 文摘 网红经济
+      style: black
+      url: https://www.wired.com/story/pricey-war-influence-your-instagram-feed/
+
+    - name: 收集各种网页入侵的技术，已经收集了十多种
+      style: basic
+      url: https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/
+
+    - name: 3D 病毒浏览器
+      style: basic
+      url: https://media.hhmi.org/biointeractive/click/virus-explorer/
+
+    - name: 日本农村待售的房屋看看日本乡下，几万元人民币可以买到的房子一大堆，都是买来就可以直接入住，还带土地产权
+      style: basic
+      url:  https://inakanoseikatsu.com/山口県山口市・古民家・70万円/
+      
+    - name: 收集各种谷歌服务的替代品，让你可以不使用谷歌
+      style: teal
+      url: https://nomoregoogle.com
+
+    - name: 手绘图保存成 PPT 的在线服务
+      style: basic
+      url: https://webdemo.myscript.com/views/diagram/index.html#/edit
+
+    - name: 列出了人类历史上25个最重要的集成电路
+      style: basic
+      url: https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world
+
+    - name: React 的短视频课程，几分钟一集，共有45集
+      style: basic
+      url: https://scrimba.com/g/glearnreact
+
+    - name: 该项目专门拍摄推动计算机革命的开源程序员的肖像
+      style: basic
+      url: http://www.facesofopensource.com
+
+    - name: 收集渐变色样式的网站
+      style: black
+      url: https://uigradients.com/#JuicyOrange
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:  
+      
+    - name: 
+      style: teal
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
 
     - name: 
       style: basic
