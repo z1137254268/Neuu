@@ -25,6 +25,10 @@
       style: black
       url: https://loli.loli123.workers.dev/-----https://www.baidu.com/
 
+    - name: H小猫屋
+      style: red
+      url: https://neuu.000webhostapp.com
+
   - name: 购物
     links:
     - name: 淘宝
@@ -433,23 +437,23 @@
   - name: 有趣音乐网站
     links:
     - name: MIKU音乐
-      style: basic
+      style: blue
       url: http://neu.6te.net
 
     - name: MIKU音乐（备用）
-      style: basic
+      style: blue
       url: https://z1137254268.github.io/Neu/1/
 
     - name: 手鼓猫
-      style: basic
+      style: teal
       url: https://bongo.cat
 
     - name: 手鼓猫（备用）
-      style: basic
+      style: teal
       url: https://z1137254268.github.io/bongo.cat/
 
     - name: NSF音乐
-      style: basic
+      style: black
       url: http://nsf.mimoe.cc/#
 
     - name: 程序员的风琴音乐
