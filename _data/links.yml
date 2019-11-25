@@ -1396,9 +1396,9 @@
       style: basic
       url: http://gityx.com
 
-    - name: 
+    - name: 在线的迷宫游戏网站，支持多人同时游戏
       style: basic
-      url: 
+      url: http://www.mazebattles.com
 
     - name: 
       style: basic
@@ -1738,37 +1738,37 @@
       style: basic
       url: https://uigradients.com/#JuicyOrange
 
-    - name: 
+    - name: 很神奇的工具，可以任意在线重绘建筑物的照片，在大门上一划，就变成了墙麻省理工学院人工智能实验室开发
       style: black
-      url: 
+      url: http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
 
-    - name: 
+    - name: 鬼屋制作
       style: black
-      url: 
+      url: http://crookedhouse.org/grym-home/
 
-    - name: 
+    - name: 《几何原本》在线版
       style: basic
-      url: 
+      url: https://www.c82.net/euclid/
 
-    - name: 
+    - name: 收集了近20个加载页面的优秀动画效果
       style: basic
-      url: 
+      url: https://medium.com/@ann.green/loading-indicators-e9d9ac9680b
 
-    - name: 
+    - name: 一个波兰团队做了非常好玩的工具，可以把视频自动转成漫画
       style: basic
-      url:  
+      url:  https://comixify.ai/?last=month&sortBy=trend
       
-    - name: 
+    - name: 测试打字速度的工具
       style: teal
-      url: 
+      url: https://wwwtyro.github.io/keyzen/
 
-    - name: 
+    - name: 显示全球人口的人口山
       style: basic
-      url: 
+      url: https://pudding.cool/2018/12/3d-cities-story/index.html
 
-    - name: 
+    - name: 网页展示地球演化的46亿年
       style: basic
-      url: 
+      url: http://timelineofearth.com
 
     - name: 
       style: basic
