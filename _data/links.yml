@@ -243,7 +243,11 @@
       
     - name: 人工智能识别涂鸦
       style: basic
-      url: https://quickdraw.withgoogle.com      
+      url: https://quickdraw.withgoogle.com 
+      
+    - name: 动漫图片人物查询
+      style: pink
+      url: http://iqdb.org      
       
   - name: 社交
     links:
@@ -553,6 +557,48 @@
       style: basic
       url:       
 
+  - name: 图片相关网站
+    links:
+    - name: pixiv
+      style: teal
+      url: https://www.pixiv.net
+
+    - name: 动漫图片壁纸
+      style: basic
+      url: https://anime-pictures.net
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
   - name: 测试
     links:
     - name: 
@@ -593,4 +639,4 @@
 
     - name: 
       style: basic
-      url: 
+      url:       
