@@ -259,7 +259,11 @@
       
     - name: 二次元老婆放大两倍
       style: pink
-      url: http://waifu2x.udp.jp      
+      url: http://waifu2x.udp.jp
+      
+    - name: 英文艺术体生成
+      style: basic
+      url: http://www.akuziti.com/yw/      
       
   - name: 社交
     links:
