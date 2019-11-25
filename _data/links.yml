@@ -1702,10 +1702,9 @@
       style: basic
       url:  https://www.wired.com/story/pricey-war-influence-your-instagram-feed/ 
 
-
-    - name: 
+    - name: 收集各种网页入侵的技术，已经收集了十多种
       style: black
-      url: 
+      url: https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/
 
     - name: 
       style: basic
