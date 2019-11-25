@@ -488,9 +488,17 @@
       style: basic
       url:  https://www.soundsleeping.com/index.php
       
+    - name: 用手脚演奏音乐
+      style: basic
+      url:  https://www.basics09.de/iclip/    
+      
+    - name: 制作电子音乐
+      style: basic
+      url: https://www.audiotool.com/app/ 
+      
     - name: 
       style: basic
-      url:      
+      url:        
 
   - name: 测试
     links:
