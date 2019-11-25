@@ -1400,13 +1400,13 @@
       style: basic
       url: http://www.mazebattles.com
 
-    - name: 
+    - name: 访问该网站会随机显示一张人像照片这些人像都是 AI 生成的，并不是真实的人
       style: basic
-      url: 
+      url: https://thispersondoesnotexist.com
 
-    - name: 
+    - name: 生成表情包
       style: basic
-      url: 
+      url: http://www.lijinke.cn/react-meme-generator/#
 
     - name: 
       style: black
