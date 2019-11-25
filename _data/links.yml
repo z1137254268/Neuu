@@ -555,7 +555,10 @@
     - name: 假装弹奏
       style: basic
       url: http://touchpianist.com
-
+      
+   - name: 年代久远的音乐
+      style: basic
+      url: http://techno.org/electronic-music-guide/
       
     - name: 
       style: basic
