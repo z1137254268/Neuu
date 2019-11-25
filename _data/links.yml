@@ -267,7 +267,11 @@
       
     - name: VTB DDTV
       style: blue
-      url: https://vtbs.moe/live      
+      url: https://vtbs.moe/live
+      
+    - name: 万能命令
+      style: basic
+      url: https://wn.run/cn/      
       
   - name: 社交
     links:
@@ -656,37 +660,37 @@
       style: teal
       url: https://z1137254268.github.io/SuperMario/
 
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
+    - name: 恐怖游戏1
       style: black
-      url: 
+      url: https://www.sinthaistudio.com/thehouse1/rooms.html
 
-    - name: 
+    - name: 恐怖游戏1
       style: black
-      url: 
+      url: https://www.sinthaistudio.com/thehouse2/
 
-    - name: 
+    - name: 水母马里奥
       style: basic
-      url: 
+      url: https://jellymar.io
 
-    - name: 
+    - name: 马里奥
+      style: black
+      url: https://jcw87.github.io/c2-smb1/
+
+    - name: 马里奥
       style: basic
-      url: 
+      url: https://www.neilb.net/MarioHTML/
+
+    - name: FC在线
+      style: black
+      url: http://lab.mkblog.cn/FCGames/#/
+
+    - name: FC
+      style: basic
+      url: http://www.famicn.com/index.html
+
+    - name: 恐龙快跑
+      style: basic
+      url: http://lab.mkblog.cn/dinosaur/
 
     - name: 
       style: basic
