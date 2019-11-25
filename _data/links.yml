@@ -656,7 +656,7 @@
       
   - name: 有趣小游戏
     links:
-    - name: 马里奥
+    - name: HTML5马里奥
       style: teal
       url: https://z1137254268.github.io/SuperMario/
 
@@ -692,41 +692,41 @@
       style: basic
       url: http://lab.mkblog.cn/dinosaur/
 
-    - name: 
+    - name: 文字游戏
       style: basic
-      url: 
+      url: http://adarkroom.doublespeakgames.com/?lang=zh_cn
       
-    - name: 
+    - name: DOS游戏
       style: teal
-      url: 
+      url: https://dos.zczc.cz
 
-    - name: 
+    - name: 开源的游戏
       style: basic
-      url: 
+      url: https://osgameclones.com
 
-    - name: 
+    - name: html汉化小游戏
       style: basic
-      url: 
+      url: https://likexia.gitee.io/game/index.html
 
-    - name: 
+    - name: 小霸王
       style: basic
-      url: 
+      url: https://www.yikm.net
 
-    - name: 
+    - name: 浏览无穷无尽的游戏
       style: basic
-      url: 
+      url: https://rawg.io
 
-    - name: 
+    - name: 类似塞尔达游戏
       style: black
-      url: 
+      url: https://heraclosgame.com
 
-    - name: 
+    - name: 13KB的小游戏
       style: black
-      url: 
+      url: https://bellwoods.xyz
 
-    - name: 
+    - name: 设计宇宙飞船
       style: basic
-      url: 
+      url: https://cosmoteer.net
 
     - name: 
       style: basic
