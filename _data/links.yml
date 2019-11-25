@@ -271,7 +271,11 @@
       
     - name: 万能命令
       style: basic
-      url: https://wn.run/cn/      
+      url: https://wn.run/cn/ 
+      
+    - name: 软件向导
+      style: basic
+      url: https://www.10wan.com      
       
   - name: 社交
     links:
@@ -808,73 +812,73 @@
       style: basic
       url: https://www.sudokubum.com
 
-    - name: 
+    - name: HTML5飞机游戏
       style: basic
-      url: 
+      url: https://zty.pe
 
-    - name: 
+    - name: 俄罗斯方块
       style: basic
-      url: 
+      url: http://tetris5.sourceforge.net/game.html
       
-    - name: 
+    - name: 国外小游戏合集
       style: teal
-      url: 
+      url: https://zh.pog.com
 
-    - name: 
+    - name: 同作者发布另类好玩的像素游戏
       style: basic
-      url: 
+      url: http://www.pippinbarr.com/category/games/
 
-    - name: 
+    - name: Html5小游戏合集
       style: basic
-      url: 
+      url: http://www.lessmilk.com
 
-    - name: 
+    - name: 高端生物类游戏
       style: basic
-      url: 
+      url: https://eternagame.org/home/
 
-    - name: 
+    - name: 子弹时间Unity3D游戏
       style: basic
-      url: 
+      url: https://superhotgame.com
 
-    - name: 
+    - name: 山羊冒险
       style: black
-      url: 
+      url: http://www.playescapegoat.com
 
-    - name: 
+    - name: 机智反应
       style: black
-      url: 
+      url: https://fastfives.mailchimp.com
 
-    - name: 
+    - name: 生存版消除
       style: basic
-      url: 
+      url: http://gridland.doublespeakgames.com
 
-    - name: 
+    - name: 逻辑思维
       style: basic
-      url: 
+      url: http://0hh1.com
 
-    - name: 
+    - name: 智力型音乐
       style: basic
-      url:  
+      url:  http://tonenotone.com
       
-    - name: 
+    - name: 国外小游戏合集
       style: teal
-      url: 
+      url: http://onemorelevel.com
 
-    - name: 
+    - name: 计算器
       style: basic
-      url: 
+      url: http://wanjsq.com
 
-    - name: 
+    - name: 编程益智
       style: basic
-      url: 
+      url: https://lightbot.com
 
-    - name: 
+    - name: 高自由度沙盒像素
       style: basic
-      url: 
+      url: http://manyland.com
 
-    - name: 
+    - name: 主页形小游戏
       style: basic
-      url: 
+      url: https://bruno-simon.com
 
     - name: 
       style: black
