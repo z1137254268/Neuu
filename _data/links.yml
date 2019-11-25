@@ -275,7 +275,11 @@
       
     - name: 软件向导
       style: basic
-      url: https://www.10wan.com      
+      url: https://www.10wan.com 
+      
+    - name: galgame资源下载
+      style: pink
+      url: https://www.nyagal.com
       
   - name: 社交
     links:
@@ -735,10 +739,6 @@
     - name: 编程设计机器人进行战斗
       style: basic
       url: https://bot.land
-
-    - name: galgame资源下载
-      style: pink
-      url: https://www.nyagal.com
       
     - name: 浏览器地址栏的贪吃蛇游戏
       style: teal
