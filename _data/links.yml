@@ -345,27 +345,51 @@
       style: pink
       url: https://www.nyagal.com
       
-    - name: 
+    - name: 磁力搜
       style: basic
-      url: 
+      url: https://biedian.me
 
-    - name: 
+    - name: 意林杂志网
       style: basic
-      url: 
+      url: https://www.yilinzazhi.com
 
-    - name: 
+    - name: 下载谷歌应用商店apk 
       style: basic
-      url: 
+      url: https://apktada.com
       
+    - name: 在线免费图书从小说、散文、戏剧、诗歌等
+      style: black
+      url: http://www.readprint.com
+
+    - name: 可以编辑的指导手册
+      style: black
+      url: https://zh.wikihow.com/首页
+
+    - name: 二次元老婆不存在
+      style: pink
+      url: https://www.obormot.net/demos/these-waifus-do-not-exist.html
+
+    - name: 汉化游戏屋
+      style: basic
+      url: http://www.ogsgame.com/category/hanhua/
+
+    - name: 素描画自动上色
+      style: black
+      url:  https://paintschainer.preferred.tech/index_zh.html
+      
+    - name: 微信小号托管
+      style: basic
+      url: http://z1.micinv.com/SignIn.aspx
+      
+    - name: ONS180个汉化游戏合集 Android/iOS/PC[Chinese]
+      style: black
+      url: https://www.ggbases.com/view.so?id=26640
+
     - name: 
       style: black
       url: 
 
     - name: 
-      style: black
-      url: 
-
-    - name: 
       style: basic
       url: 
 
@@ -375,7 +399,7 @@
 
     - name: 
       style: basic
-      url:        
+      url:       
       
   - name: 社交
     links:
@@ -434,13 +458,13 @@
       style: basic
       url: https://www.linkedin.com/
       
-    - name: 
+    - name: Discord
       style: basic
-      url: 
+      url: https://discordapp.com/channels/@me
 
-    - name: 
+    - name: 灵魂社区
       style: basic
-      url: 
+      url: http://soulapartment.net/bin/index.php
 
     - name: 
       style: basic
@@ -786,9 +810,9 @@
       style: basic
       url: http://touchpianist.com 
       
-    - name: 
-      style: basic
-      url: 
+    - name: 动漫无损音乐下载
+      style: pink
+      url: http://www.acgjc.com
 
     - name: 
       style: basic
@@ -1268,9 +1292,9 @@
       style: basic
       url:  http://www.io233.com
       
-    - name: 
+    - name: Ana Somnia
       style: teal
-      url: 
+      url: http://cdn.anasomnia.com
 
     - name: 
       style: basic
@@ -1390,9 +1414,9 @@
       
   - name: 有趣网址
     links:
-    - name: 
+    - name: 典藏了世界上最古老的各种地图也许比谷歌地图都还要齐全
       style: teal
-      url: 
+      url: https://www.davidrumsey.com
 
     - name: 
       style: basic
