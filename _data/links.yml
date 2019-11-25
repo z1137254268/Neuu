@@ -462,7 +462,7 @@
       style: orange
       url: https://douyu.com/
 
-  - name: 有趣音乐网站
+  - name: 有趣音乐
     links:
     - name: MIKU音乐
       style: blue
@@ -582,7 +582,7 @@
       style: basic
       url:       
 
-  - name: 图片相关网站
+  - name: 图片相关
     links:
     - name: pixiv
       style: teal
@@ -646,9 +646,9 @@
       
   - name: 有趣小游戏
     links:
-    - name: 
+    - name: HTML5超级马里奥
       style: teal
-      url: 
+      url: https://z1137254268.github.io/SuperMario/
 
     - name: 
       style: basic
