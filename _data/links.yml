@@ -263,7 +263,11 @@
       
     - name: 英文艺术体生成
       style: basic
-      url: http://www.akuziti.com/yw/      
+      url: http://www.akuziti.com/yw/
+      
+    - name: VTB DDTV
+      style: blue
+      url: https://vtbs.moe/live      
       
   - name: 社交
     links:
