@@ -29,9 +29,9 @@
       style: red
       url: https://neuu.000webhostapp.com
       
-    - name: 
+    - name: pixiv每日榜top50
       style: basic
-      url: 
+      url: https://z1137254268.github.io/Neu/
 
     - name: 
       style: basic
@@ -409,9 +409,9 @@
       style: basic
       url: https://www.photopea.com
 
-    - name: 
+    - name: 元素周期表
       style: basic
-      url: 
+      url: https://ptable.com
       
     - name: 
       style: black
@@ -1038,9 +1038,9 @@
       style: basic
       url: https://giphy.com
 
-    - name: 
+    - name: 迈登斯的中国摄影集
       style: basic
-      url: 
+      url: https://www.shuge.org/ebook/carl-mydans-world-war-ii/
 
     - name: 
       style: basic
@@ -1510,6 +1510,10 @@
       
   - name: 有趣网址
     links:
+    - name: 魔法少女サイト
+      style: red
+      url: https://magical-girl.site
+      
     - name: 典藏了世界上最古老的各种地图也许比谷歌地图都还要齐全
       style: teal
       url: https://www.davidrumsey.com
@@ -1526,101 +1530,101 @@
       style: basic
       url: https://github.com/no-Dark/Adult
 
-    - name: 
+    - name: 查看棋谱
       style: basic
-      url: 
+      url: https://deepmind.com/alphago-chinese-simplified
 
-    - name: 
+    - name: 高中物理笔记
       style: black
-      url: 
+      url: https://landgreen.github.io/physics/index.html
 
-    - name: 
+    - name: 世界电台
       style: black
-      url: 
+      url: https://radio.garden/listen/radio-maria-99-7-fm/lfsnH3if
 
-    - name: 
+    - name: 钟表店
       style: basic
-      url: 
+      url: https://a-jie.github.io/clock-shop/
 
-    - name: 
+    - name: 黑客新闻
       style: basic
-      url: 
+      url: https://news.ycombinator.com
 
-    - name: 
+    - name: 收集各种软件的 Cheat Sheet（常用操作表）
       style: basic
-      url:  
+      url:  https://devhints.io
       
-    - name: 
+    - name: 模拟电路生成器
       style: teal
-      url: 
+      url: https://www.falstad.com/circuit/circuitjs.html
 
-    - name: 
+    - name: 收集各种各样的机械键盘
       style: basic
-      url: 
+      url: https://scrapbox.io/MECHKEYS/
 
-    - name: 
+    - name: 14000种鸟叫
       style: basic
-      url: 
+      url: https://experiments.withgoogle.com/ai/bird-sounds/view/
 
-    - name: 
+    - name: 对版权过期的英文小说进行精心排版，提供电子书下载
       style: basic
-      url: 
+      url: https://standardebooks.org/ebooks/
 
-    - name: 
+    - name: 普通人的微积分教程
       style: basic
-      url: 
+      url: https://www.geogebra.org/m/x39ys4d7
 
-    - name: 
+    - name: 提供计算机科学各领域研究机构的排名，可以查看全球排名，也可以查看每个大洲的排名
       style: black
-      url: 
+      url: https://csrankings.org/#/index?ai&asia
 
-    - name: 
+    - name: 收集各个学科开源的大学教材
       style: black
-      url: 
+      url: https://openstax.org/subjects
 
-    - name: 
+    - name: 世界各国护照效力排名
       style: basic
-      url: 
+      url: https://www.passportindex.org
 
-    - name: 
+    - name: 生成对称图形的网站，可以用来生成墙纸
       style: basic
-      url: 
+      url: http://www.coloring-book.co/wallpaper?group=p4g&drawPathFunction=curves2
 
-    - name: 
+    - name: Windows 2000 的浏览器版
       style: basic
-      url:  
+      url:  https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768
       
-    - name: 
+    - name: 网页上的 Python 运行环境
       style: teal
-      url: 
+      url: https://pypyjs.org
 
-    - name: 
+    - name: C# 语言免费教程
       style: basic
-      url: 
+      url: https://www.tutlane.com/tutorial/csharp/csharp-tutorial
 
-    - name: 
+    - name: 网页设计博物馆
       style: basic
-      url: 
+      url: https://www.webdesignmuseum.org
 
-    - name: 
+    - name: 计算机之前的计算设备
       style: basic
-      url: 
+      url: http://ed-thelen.org/comp-hist/CBC.html
 
-    - name: 
+    - name: 谷歌放弃的产品
       style: basic
-      url: 
+      url: https://www.lemonde.fr/pixels/visuel/2018/09/05/google-memorial-les-projets-abandonnes-par-google-depuis-vingt-ans_5350679_4408996.html
 
-    - name: 
+    - name: 在线编写五线谱，可以实时听到编写的旋律
       style: black
-      url: 
+      url: https://www.hacklily.org
 
-    - name: 
+    - name: Python 语言互动教程
       style: black
-      url: 
+      url: http://projectpython.net/chapter00/
 
-    - name: 
+    - name: Youtube 的教育视频
       style: basic
-      url: 
+      url: https://news.ycombinator.com/item?id=17999659
 
     - name: 
       style: basic
