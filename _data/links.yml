@@ -475,8 +475,18 @@
     - name: 互动音乐动画背景
       style: basic
       url: http://www.bbboooooommm.com
+      
+    - name: 无限DJ音乐电台
+      style: basic
+      url: http://forever.fm
+      
+    - name: 组合乐器生成音乐
+      style: basic
+      url: https://www.incredibox.com     
 
-
+    - name: 改善睡眠的音乐
+      style: basic
+      url:  https://www.soundsleeping.com/index.php
       
     - name: 
       style: basic
