@@ -255,7 +255,11 @@
       
     - name: 各种PDF在线工具
       style: black
-      url: https://www.ilovepdf.com/zh-cn      
+      url: https://www.ilovepdf.com/zh-cn
+      
+    - name: 二次元老婆放大两倍
+      style: pink
+      url: http://waifu2x.udp.jp      
       
   - name: 社交
     links:
@@ -596,13 +600,13 @@
       style: basic
       url: https://www.manypixels.co/gallery/
 
-    - name: 
+    - name: 暴徒png图片
       style: black
-      url: 
+      url: http://www.pngall.com/thug-life-png
 
-    - name: 
-      style: black
-      url: 
+    - name: 杂乱的gif图
+      style: basic
+      url: https://giphy.com
 
     - name: 
       style: basic
