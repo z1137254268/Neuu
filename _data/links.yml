@@ -601,9 +601,9 @@
       style: basic
       url: http://www.esc-j.net/sdo/
 
-    - name: 
+    - name: galgame游戏
       style: basic
-      url: 
+      url: https://www.tianshie.com
 
     - name: 
       style: black
@@ -1559,6 +1559,14 @@
     - name: 松鼠症貨倉
       style: black
       url: http://xayah.top/index.php?route=video/jav/getList
+      
+    - name: X Anime Porn
+      style: pink
+      url: http://www.xanimeporn.com    
+      
+    - name: Mucho Hentai
+      style: pink
+      url: https://muchohentai.com      
                  
     - name: 优酷
       style: basic
@@ -2436,6 +2444,14 @@
       style: pink
       url: https://yande.re/post 
       
+    - name: konachan
+      style: pink
+      url: https://konachan.net/post
+      
+    - name: 动漫壁纸
+      style: pink
+      url: http://konachan.wjcodes.com      
+      
     - name: pixiv提供有限的搜索
       style: teal
       url: https://pixivic.com 
@@ -2520,13 +2536,13 @@
       style: basic
       url: https://www.opendoodles.com
 
-    - name: 
+    - name: 萌幻之乡
       style: black
-      url: 
+      url: https://www.hmoe.moe
 
-    - name: 
+    - name: 巴西摄影师塞巴斯蒂昂·萨尔加多
       style: black
-      url: 
+      url: https://www.bjp-online.com/2019/09/sebastião-salgado-gold/
 
     - name: 
       style: basic
@@ -3820,17 +3836,17 @@
       style: basic
       url: https://nagix.github.io/mini-tokyo-3d/
 
-    - name: 
+    - name: 折纸地球仪可以打印出来，自己折纸做一个地球仪
       style: basic
-      url:   
+      url:   https://mapscaping.com/pages/folding-paper-globes
       
-    - name: 
+    - name: 50座最具影响力的高层建筑
       style: teal
-      url: 
+      url: https://ctbuh2019.com/other-info/50-influential-buildings/
 
-    - name: 
+    - name: 1976年苹果公司的第一个产品 Apple I 电脑发布
       style: basic
-      url: 
+      url: http://www.waveguide.se/?article=storing-data-on-cassettes
 
     - name: 
       style: basic
