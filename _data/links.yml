@@ -541,9 +541,9 @@
       style: basic
       url: https://www.remove.bg/zh
 
-    - name: 
+    - name: 在线绘制业务流程图
       style: basic
-      url: 
+      url: https://bpmn.io/toolkit/bpmn-js/
 
     - name: 
       style: basic
@@ -1234,9 +1234,9 @@
       style: basic
       url: https://www.open-open.com
 
-    - name: 
+    - name: 学习java
       style: basic
-      url:   
+      url:  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
       
     - name: 
       style: teal
@@ -2394,7 +2394,11 @@
       
     - name: pixiv提供有限的搜索
       style: teal
-      url: https://pixivic.com      
+      url: https://pixivic.com 
+      
+    - name: 漫画
+      style: basic
+      url: http://vol.moe      
 
     - name: 泼辣有图
       style: basic
@@ -2444,9 +2448,9 @@
       style: basic
       url: https://imgbin.com
       
-    - name: 
+    - name: 免费的图库网站
       style: basic
-      url: 
+      url: https://taken.photos
 
     - name: 
       style: basic
@@ -3732,13 +3736,13 @@
       style: basic
       url: https://www.lan-lin.com
 
-    - name: 
+    - name: 定制手工3D地图的网站
       style: basic
-      url: 
+      url: https://www.landfall.co.uk
 
-    - name: 
+    - name: 1928年的柏林地图和今日
       style: black
-      url: 
+      url: https://1928.tagesspiegel.de
 
     - name: 
       style: black
