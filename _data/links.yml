@@ -489,41 +489,41 @@
       style: basic
       url: https://motrix.app/zh-CN/
 
-    - name: 
+    - name: 3D的家居建模渲染软件可以生成平面图
       style: basic
-      url: 
+      url: https://cedreo.com
 
-    - name: 
-      style: basic
-      url:  
+    - name: 学术搜索导航
+      style: black
+      url:  http://www.6453.net
       
-    - name: 
+    - name: 国际化应用的翻译
       style: basic
-      url: 
+      url: https://i18ns.com/zh/index.html
 
-    - name: 
+    - name: 收集并分类开源项目和资源
       style: basic
-      url: 
+      url: https://www.ctolib.com
 
-    - name: 
+    - name: 收集各种 CSS 特效复制使用
       style: basic
-      url: 
+      url: https://cssfx.dev
 
-    - name: 
+    - name: 黑白照片上色
       style: black
-      url: 
+      url: https://colorize.cc
 
-    - name: 
+    - name: 网站左侧输入公式，右侧自动输出图像
       style: black
-      url: 
+      url: https://www.desmos.com/calculator
 
-    - name: 
+    - name: 贴吧签到工具
       style: basic
-      url: 
+      url: https://tieba.5sir.cn/index.php?mod=login
 
-    - name: 
+    - name: 今日Github
       style: basic
-      url: 
+      url: http://zy2071.com/Fun/todayGithub.html
 
     - name: 
       style: basic
@@ -1202,21 +1202,21 @@
       style: basic
       url: http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Faspacetimeodyssey.html
 
-    - name: 
-      style: basic
-      url: 
+    - name: 该引擎可以搜索全世界的开放课程目前包含1.2万门课程里面也有中文课程
+      style: pink
+      url: https://www.classcentral.com
       
-    - name: 
+    - name: 页面收集各种安卓手机 Root 的方法
       style: basic
-      url: 
+      url: https://www.xda-developers.com/root/
 
-    - name: 
+    - name: 在线的 Nodejs + React 的互动教程
       style: basic
-      url: 
+      url: https://fullstackopen.com/en/
 
-    - name: 
+    - name: 在线课程及实战项目
       style: basic
-      url: 
+      url: https://www.udacity.com
 
     - name: 
       style: black
@@ -1504,7 +1504,14 @@
       style: yellow
       url: http://www.by1285.com
       
-    
+    - name: 琉璃神社
+      style: black
+      url: https://www.liuli.se 
+      
+    - name: 里番种子合集ACG本子下载
+      style: basic
+      url: https://bt.cosxcos.org      
+      
       
     - name: 优酷
       style: basic
@@ -2006,9 +2013,9 @@
       style: basic
       url: http://turtle.audio
       
-    - name: 
-      style: black
-      url: 
+    - name: 在印度尼西亚婆罗州的热带雨林里面，放置了十几个录音设备，然后将每个小时录到的声音放到网上，让访问者听到每天不同时辰的大自然的声音
+      style: pink
+      url: http://acoustics.safeproject.net
 
     - name: 
       style: black
@@ -2422,9 +2429,9 @@
       style: basic
       url: https://search.creativecommons.org
 
-    - name: 
+    - name: 网站收集各种 GIF 动画图片
       style: basic
-      url: 
+      url: https://gifcities.org
 
     - name: 
       style: basic
@@ -3710,9 +3717,9 @@
       style: basic
       url: https://thisresumedoesnotexist.com
 
-    - name: 
+    - name: 网站收集世界主要网站和应用程序的页面变迁
       style: basic
-      url: 
+      url: https://www.versionmuseum.com
 
     - name: 
       style: basic
