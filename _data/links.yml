@@ -617,49 +617,49 @@
       style: pink
       url: https://www.toolfk.com
 
-    - name: 
+    - name: 通过电脑摄像头，判断坐在屏幕前面的人的坐姿是否正确
       style: basic
-      url: 
+      url: https://slouchstoppah.com
 
-    - name: 
+    - name: 生成老式诺基亚手机的短信图片
       style: basic
-      url:   
+      url:   https://zzkia.noddl.me:8020
       
-    - name: 
+    - name: 天气之子中的男女主接委托的网站
       style: teal
-      url: 
+      url: https://luern0313.cn/otenki-girl/
 
-    - name: 
+    - name: 查看全球的精准时间
       style: basic
-      url: 
+      url: https://time.is
 
-    - name: 
+    - name: 词云
       style: basic
-      url: 
+      url: https://www.moage.cn/wordar
 
-    - name: 
+    - name: YouTube视频下载器
       style: basic
-      url: 
+      url: https://www.youtubebyclick.com/zh-cn/
 
-    - name: 
+    - name: AGE BT
       style: basic
-      url: 
+      url: http://www.acgsou.com/1.html
 
-    - name: 
+    - name: ACG搜
       style: black
-      url: 
+      url: http://www.acgsou.com
 
-    - name: 
+    - name: mp4转gif
       style: black
-      url: 
+      url: https://www.aconvert.com/cn/video/mp4-to-gif/
 
-    - name: 
+    - name: 完美重现Windows的画图软件
       style: basic
-      url: 
+      url: https://jspaint.app/#local:8d559f1cfc76d
 
-    - name: 
+    - name: 韩剧综艺
       style: basic
-      url: 
+      url: http://www.runningmanzx.com
 
     - name: 
       style: basic
@@ -1290,17 +1290,17 @@
       style: basic
       url: http://epub.cnki.net/kns/default.aspx
 
-    - name: 
+    - name: 发现中国地图分享姿势
       style: basic
-      url:   
+      url:   https://www.ageeye.cn
       
-    - name: 
+    - name: Clojure语言的在线教程
       style: teal
-      url: 
+      url: https://www.braveclojure.com/clojure-for-the-brave-and-true/
 
-    - name: 
+    - name: 在线搜索国内的各种法律
       style: basic
-      url: 
+      url: http://www.faxin.cn/keyword/index.aspx
 
     - name: 
       style: basic
@@ -1566,8 +1566,12 @@
       
     - name: Mucho Hentai
       style: pink
-      url: https://muchohentai.com      
-                 
+      url: https://muchohentai.com  
+      
+    - name: 里番宅
+      style: black
+      url: https://www.lifanzhai.com      
+                
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -2544,13 +2548,13 @@
       style: black
       url: https://www.bjp-online.com/2019/09/sebastião-salgado-gold/
 
-    - name: 
+    - name: 画家的作品
       style: basic
-      url: 
+      url: http://artand.cn
 
-    - name: 
+    - name: 免费png格式图片
       style: basic
-      url: 
+      url: http://pngimg.com
 
     - name: 
       style: basic
@@ -2817,6 +2821,10 @@
     - name: 水母马里奥
       style: basic
       url: https://jellymar.io
+      
+    - name: 多人联机俄罗斯方块吃鸡
+      style: black
+      url: https://zh.jstris.jezevec10.com      
 
     - name: 马里奥
       style: black
