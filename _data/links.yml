@@ -1570,7 +1570,11 @@
       
     - name: 里番宅
       style: black
-      url: https://www.lifanzhai.com      
+      url: https://www.lifanzhai.com  
+      
+    - name: Pornhub
+      style: basic
+      url: https://cn.pornhub.com/video/search?search=幼女      
                 
     - name: 优酷
       style: basic
@@ -2464,6 +2468,14 @@
       style: pink
       url: http://vol.moe 
       
+    - name: 绅士漫画
+      style: blue
+      url: https://www.bkcg.org/albums-index-page-2-cate-9.html   
+      
+    - name: 喵绅士漫画
+      style: pink
+      url: https://zh.nyahentai.net/language/chinese/popular       
+     
     - name: 动漫图站
       style: blue
       url: https://safebooru.donmai.us       
