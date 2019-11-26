@@ -1573,7 +1573,7 @@
       url: https://www.lifanzhai.com  
       
     - name: Pornhub
-      style: basic
+      style: orange
       url: https://cn.pornhub.com/video/search?search=幼女      
                 
     - name: 优酷
@@ -2463,6 +2463,10 @@
     - name: pixiv提供有限的搜索
       style: teal
       url: https://pixivic.com 
+      
+    - name: E-hentai
+      style: pink
+      url: https://e-hentai.org/      
       
     - name: 漫画
       style: pink
