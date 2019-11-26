@@ -585,9 +585,9 @@
       style: basic
       url:  https://drive.google.com/file/d/1DniOuSsEVbmpO4jvIfFdimMrnwXWLLWG/view
       
-    - name: 
+    - name: Excel表格转为网页表格的在线工具
       style: teal
-      url: 
+      url: https://www.publisheet.com
 
     - name: 
       style: basic
@@ -854,9 +854,9 @@
       style: basic
       url: https://linux.cn/lctt
       
-    - name: 
+    - name: 番茄社区
       style: black
-      url: 
+      url: https://share.meihekou.work
 
     - name: 
       style: black
@@ -1274,9 +1274,9 @@
       style: basic
       url: https://www.kancloud.cn/special/thinkphp5_quickstart
 
-    - name: 
+    - name: 区块链小白书
       style: black
-      url: 
+      url: https://blockchainlittlebook.com/#/
 
     - name: 
       style: black
@@ -1534,8 +1534,16 @@
       
     - name: ACG次元小屋
       style: basic
-      url: https://bbs.ongacg.com/forum.php     
+      url: https://bbs.ongacg.com/forum.php 
       
+    - name: 好萌动漫
+      style: basic
+      url: https://nicemoe01.com 
+      
+    - name: 欧派动漫
+      style: basic
+      url: https://www.opacg.com      
+     
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -2405,7 +2413,7 @@
       url: https://www.pixiv.net
 
     - name: 动漫图片壁纸
-      style: basic
+      style: pink
       url: https://anime-pictures.net
 
     - name: yande
@@ -3114,9 +3122,9 @@
       style: teal
       url: https://jd-moyu.github.io
 
-    - name: 
+    - name: 手机App用来制作沙画
       style: basic
-      url: 
+      url: https://thisissand.com
 
     - name: 
       style: basic
@@ -3784,9 +3792,9 @@
       style: basic
       url: https://www.ownthink.com
 
-    - name: 
+    - name: 利用东京地铁API制作列车行驶的实时3D地图
       style: basic
-      url: 
+      url: https://nagix.github.io/mini-tokyo-3d/
 
     - name: 
       style: basic
