@@ -2396,16 +2396,16 @@
       style: teal
       url: https://pixivic.com 
       
-    - name: 动漫图站
-      style: basic
+    - name: 漫画
+      style: pink
       url: http://vol.moe 
       
     - name: 动漫图站
-      style: basic
+      style: blue
       url: https://safebooru.donmai.us       
       
-    - name: 泼辣有图
-      style: basic
+    - name: 动漫图站
+      style: pink
       url: http://e-shuushuu.net      
 
     - name: 泼辣有图
