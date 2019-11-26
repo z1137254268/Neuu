@@ -2759,6 +2759,10 @@
     - name: 恐怖游戏2
       style: black
       url: https://www.sinthaistudio.com/thehouse2/
+      
+    - name: miku游戏
+      style: blue
+      url: https://aidn.jp/contents/      
 
     - name: 水母马里奥
       style: basic
