@@ -421,9 +421,9 @@
       style: black
       url: https://picotorrent.org/
 
-    - name: 
-      style: basic
-      url: 
+    - name: 磁力搜索
+      style: red
+      url: https://www.yhg1.xyz
 
     - name: 
       style: basic
