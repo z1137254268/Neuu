@@ -425,21 +425,21 @@
       style: red
       url: https://www.yhg1.xyz
 
-    - name: 
+    - name: 百度蓝奏云提取码查询
       style: basic
-      url: 
+      url: https://pnote.net/pan/
 
-    - name: 
+    - name: 可以在线定制、修改图标的网站
       style: basic
-      url:  
+      url:  https://www.iconfu.com
       
-    - name: 
+    - name: 分享互联网上的前端技术、前端资讯
       style: basic
-      url: 
+      url: http://caibaojian.com/c/news
 
-    - name: 
+    - name: 实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
       style: basic
-      url: 
+      url: https://git.news
 
     - name: 
       style: basic
@@ -1770,25 +1770,25 @@
       style: basic
       url: http://timelineofearth.com
 
-    - name: 
+    - name: 将不同情绪对应的声音，画成一幅地图鼠标移到每个点上，都会听到声音，比如包含了50%的敬爱、33%的同情、17%满意的声音
       style: basic
-      url: 
+      url: https://s3-us-west-1.amazonaws.com/vocs/map.html#
 
-    - name: 
+    - name: Tracker 服务器列表
       style: basic
-      url: 
+      url: https://newtrackon.com/list
 
-    - name: 
+    - name: 收集各种著名树木的历史
       style: black
-      url: 
+      url: https://thetreeographer.com/archive/
 
-    - name: 
+    - name: 收集一些世界性问题的数据，比如人口、健康、食物、能源等等
       style: black
-      url: 
+      url: https://ourworldindata.org
 
-    - name: 
+    - name: 深度学习入门教材的在线阅读
       style: basic
-      url: 
+      url: https://livebook.manning.com/book/grokking-deep-learning/about-this-book/21
 
     - name: 
       style: basic
