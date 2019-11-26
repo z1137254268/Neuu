@@ -2396,9 +2396,17 @@
       style: teal
       url: https://pixivic.com 
       
-    - name: 漫画
+    - name: 动漫图站
       style: basic
-      url: http://vol.moe      
+      url: http://vol.moe 
+      
+    - name: 动漫图站
+      style: basic
+      url: https://safebooru.donmai.us       
+      
+    - name: 泼辣有图
+      style: basic
+      url: http://e-shuushuu.net      
 
     - name: 泼辣有图
       style: basic
