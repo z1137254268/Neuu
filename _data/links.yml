@@ -1509,9 +1509,12 @@
       url: https://www.liuli.se 
       
     - name: 里番种子合集ACG本子下载
-      style: basic
-      url: https://bt.cosxcos.org      
+      style: pink
+      url: https://bt.cosxcos.org  
       
+    - name: 吉哩哩
+      style: blue
+      url: https://jilili.me      
       
     - name: 优酷
       style: basic
