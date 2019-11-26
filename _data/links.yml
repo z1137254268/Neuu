@@ -545,9 +545,25 @@
       style: basic
       url: https://bpmn.io/toolkit/bpmn-js/
 
-    - name: 
-      style: basic
-      url: 
+    - name: BT搜索
+      style: black
+      url: https://www.jubt.net/cn/index.html
+      
+    - name: 番号搜索
+      style: black
+      url: https://www.51porn.net
+
+    - name: 种子下载
+      style: black
+      url: https://www.acgnx.se
+
+    - name: 种子下载2
+      style: black
+      url: https://share.acgnx.se
+
+    - name: 里番种子
+      style: black
+      url:  https://ero.acgnx.se      
 
     - name: 
       style: black
@@ -834,9 +850,9 @@
       style: basic
       url: http://soulapartment.net/bin/index.php
 
-    - name: 
+    - name: Linux 中国开源社区
       style: basic
-      url: 
+      url: https://linux.cn/lctt
       
     - name: 
       style: black
@@ -1238,13 +1254,13 @@
       style: basic
       url:  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
       
-    - name: 
+    - name: 日语语法指南
       style: teal
-      url: 
+      url: https://res.wokanxing.info/jpgramma/
 
-    - name: 
+    - name: Python初学者教程A Byte of Python中文翻译
       style: basic
-      url: 
+      url: https://bop.mol.uno
 
     - name: 
       style: basic
@@ -1514,7 +1530,9 @@
       
     - name: 吉哩哩
       style: blue
-      url: https://jilili.me      
+      url: https://jilili.me  
+      
+     
       
     - name: 优酷
       style: basic
@@ -2460,9 +2478,9 @@
       style: basic
       url: https://taken.photos
 
-    - name: 
+    - name: 图标下载
       style: basic
-      url: 
+      url: https://www.easyicon.net
 
     - name: 
       style: basic
@@ -3078,13 +3096,13 @@
       style: basic
       url: http://loderunnerwebgame.com/game/
 
-    - name: 
+    - name: 棋局对局
       style: basic
-      url: 
+      url: https://online-go.com
 
-    - name: 
+    - name: Excel里面的策略游戏文明
       style: basic
-      url:  
+      url:  https://s0lly.itch.io/cellivization
       
     - name: 
       style: teal
@@ -3752,13 +3770,13 @@
       style: black
       url: https://1928.tagesspiegel.de
 
-    - name: 
+    - name: 开源的种子库
       style: black
-      url: 
+      url: https://www.opensourceseeds.org/en
 
-    - name: 
+    - name: 对话机器人
       style: basic
-      url: 
+      url: https://www.ownthink.com
 
     - name: 
       style: basic
