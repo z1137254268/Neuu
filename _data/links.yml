@@ -525,9 +525,9 @@
       style: basic
       url: http://zy2071.com/Fun/todayGithub.html
 
-    - name: 
+    - name: 生成一个二次元老婆 
       style: basic
-      url:   
+      url:  https://waifulabs.com
       
     - name: 
       style: teal
@@ -2390,7 +2390,11 @@
 
     - name: yande
       style: pink
-      url: https://yande.re/post
+      url: https://yande.re/post 
+      
+    - name: pixiv提供有限的搜索
+      style: teal
+      url: https://pixivic.com      
 
     - name: 泼辣有图
       style: basic
