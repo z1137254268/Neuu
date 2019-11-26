@@ -441,17 +441,17 @@
       style: basic
       url: https://git.news
 
-    - name: 
+    - name: 一套可以定制的 SVG 图标
       style: basic
-      url: 
+      url: https://iconsvg.xyz
       
-    - name: 
+    - name: 为黑白照片着色的在线服务
       style: black
-      url: 
+      url: https://colourise.sg/#colorize
 
-    - name: 
+    - name: 免费的线上图书馆，提供中国古籍电子版，已收藏超过3万本著作
       style: black
-      url: 
+      url: https://ctext.org/zh
 
     - name: 
       style: basic
@@ -630,9 +630,9 @@
       style: black
       url: https://www.y-english.org/
       
-    - name: 
+    - name: 学任何东西
       style: basic
-      url: 
+      url: 一个学习资源的搜索引擎，可以搜索各种主题，返回相应的教程
 
     - name: 
       style: basic
@@ -1046,17 +1046,17 @@
       style: basic
       url: https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884?is_public_domain=1
 
-    - name: 
+    - name: 妹子图片
       style: basic
-      url: 
+      url: https://www.way2mm.ml
       
-    - name: 
+    - name: 一位爱好者拍摄了近5万张夜空图像，然后合成了一张81万像素的月球图像
       style: black
-      url: 
+      url: https://www.reddit.com/r/space/comments/arer0k/i_took_nearly_50000_images_of_the_night_sky_to/
 
-    - name: 
+    - name: 17世纪荷兰画家维米尔以精确还原生活场景而著称
       style: black
-      url: 
+      url: https://artsandculture.google.com/project/vermeer-paintings
 
     - name: 
       style: basic
@@ -1408,13 +1408,13 @@
       style: basic
       url: http://www.lijinke.cn/react-meme-generator/#
 
-    - name: 
+    - name: GeoFS是一个免费的在线飞行模拟器，包含全球的真实景色
       style: black
-      url: 
+      url: https://www.geo-fs.com/int/cn/
 
-    - name: 
+    - name: 浏览器运行游戏，免费下载
       style: black
-      url: 
+      url: https://itch.io/games
 
     - name: 
       style: basic
@@ -1790,17 +1790,17 @@
       style: basic
       url: https://livebook.manning.com/book/grokking-deep-learning/about-this-book/21
 
-    - name: 
+    - name: 该仓库收集个人开发者提交的作品
       style: basic
-      url: 
+      url: https://josephchang10.github.io/chinese-indie-hackers/
 
-    - name: 
+    - name: 国内做的全球航班实时位置展示
       style: basic
-      url:  
+      url:  https://flightadsb.variflight.com/tracker/104.616795,32.864983/6
       
-    - name: 
+    - name: 各种算法的动态演示网站
       style: teal
-      url: 
+      url: https://visualgo.net/zh
 
     - name: 
       style: basic
