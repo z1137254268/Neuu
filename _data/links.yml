@@ -529,17 +529,17 @@
       style: basic
       url:  https://waifulabs.com
       
-    - name: 
+    - name: 在线PS图片
       style: teal
-      url: 
+      url: https://www.uupoop.com
 
-    - name: 
+    - name: ps抠图
       style: basic
-      url: 
+      url: https://www.gaoding.com/koutu
 
-    - name: 
+    - name: 抠图
       style: basic
-      url: 
+      url: https://www.remove.bg/zh
 
     - name: 
       style: basic
@@ -1218,21 +1218,21 @@
       style: basic
       url: https://www.udacity.com
 
-    - name: 
+    - name: Docker 初学者教程
       style: black
-      url: 
+      url: https://docker-curriculum.com
 
-    - name: 
+    - name: 仓库收集互联网上的免费开发者资源
       style: black
-      url: 
+      url: https://free-for.dev/#/
 
-    - name: 
+    - name: Ubuntu Docker从入门到实践
       style: basic
-      url: 
+      url: https://yeasy.gitbooks.io/docker_practice/install/ubuntu.html
 
-    - name: 
+    - name: 开源项目
       style: basic
-      url: 
+      url: https://www.open-open.com
 
     - name: 
       style: basic
@@ -2440,9 +2440,9 @@
       style: basic
       url: https://gifcities.org
 
-    - name: 
+    - name: 免费下载透明的PNG图像
       style: basic
-      url: 
+      url: https://imgbin.com
       
     - name: 
       style: basic
@@ -3728,9 +3728,9 @@
       style: basic
       url: https://www.versionmuseum.com
 
-    - name: 
+    - name: 分享国外网友的世界观
       style: basic
-      url: 
+      url: https://www.lan-lin.com
 
     - name: 
       style: basic
