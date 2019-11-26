@@ -605,17 +605,17 @@
       style: basic
       url: https://www.tianshie.com
 
-    - name: 
+    - name: 制作出很炫酷的PPT
       style: black
-      url: 
+      url: https://www.beautiful.ai
 
-    - name: 
+    - name: 传文件
       style: black
-      url: 
+      url: https://www.wenshushu.cn
 
-    - name: 
-      style: basic
-      url: 
+    - name: 程序员开发工具大全
+      style: pink
+      url: https://www.toolfk.com
 
     - name: 
       style: basic
@@ -2072,9 +2072,9 @@
       style: pink
       url: http://acoustics.safeproject.net
 
-    - name: 
+    - name: 自定义白噪音网站
       style: black
-      url: 
+      url: https://asoftmurmur.com
 
     - name: 
       style: basic
