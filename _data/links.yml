@@ -597,9 +597,9 @@
       style: basic
       url: https://github.com/imfht/fanhaodaquan/tree/master/番号大全
 
-    - name: 
+    - name: 查黄油女主角是否为处女
       style: basic
-      url: 
+      url: http://www.esc-j.net/sdo/
 
     - name: 
       style: basic
@@ -1542,8 +1542,24 @@
       
     - name: 欧派动漫
       style: basic
-      url: https://www.opacg.com      
-     
+      url: https://www.opacg.com 
+      
+    - name: Hentai Haven
+      style: pink
+      url: http://hentaihaven.org 
+      
+    - name: Ohentai
+      style: pink
+      url: https://www.ohentai.org   
+      
+    - name: Hentaimama
+      style: pink
+      url: http://hentaimama.com    
+      
+    - name: 松鼠症貨倉
+      style: black
+      url: http://xayah.top/index.php?route=video/jav/getList
+                 
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -2437,9 +2453,13 @@
       url: http://e-shuushuu.net      
       
     - name: COS分類相片
-      style: basic
-      url: https://www.jjpicss.com/tag/COS      
-
+      style: black
+      url: https://www.jjpicss.com/tag/COS   
+      
+    - name: 漫画r18
+      style: pink
+      url: https://hitomi.la
+     
     - name: 泼辣有图
       style: basic
       url: http://www.polayoutu.com/collections
