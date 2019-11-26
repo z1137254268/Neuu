@@ -589,13 +589,13 @@
       style: teal
       url: https://www.publisheet.com
 
-    - name: 
+    - name: 代码搜索和导航工具
       style: basic
-      url: 
+      url: https://about.sourcegraph.com
 
-    - name: 
+    - name: 番号大全
       style: basic
-      url: 
+      url: https://github.com/imfht/fanhaodaquan/tree/master/番号大全
 
     - name: 
       style: basic
@@ -1278,17 +1278,17 @@
       style: black
       url: https://blockchainlittlebook.com/#/
 
-    - name: 
+    - name: 机器学习的数学基础
       style: black
-      url: 
+      url: https://mml-book.github.io
 
-    - name: 
+    - name: 中国知网
       style: basic
-      url: 
+      url: https://www.cnki.net
 
-    - name: 
+    - name: 中国知网
       style: basic
-      url: 
+      url: http://epub.cnki.net/kns/default.aspx
 
     - name: 
       style: basic
@@ -2435,6 +2435,10 @@
     - name: 动漫图站
       style: pink
       url: http://e-shuushuu.net      
+      
+    - name: COS分類相片
+      style: basic
+      url: https://www.jjpicss.com/tag/COS      
 
     - name: 泼辣有图
       style: basic
@@ -3126,9 +3130,9 @@
       style: basic
       url: https://thisissand.com
 
-    - name: 
+    - name: MS-DOS遊戲
       style: basic
-      url: 
+      url: https://archive.org/details/softwarelibrary_msdos_games
 
     - name: 
       style: basic
