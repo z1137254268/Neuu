@@ -453,41 +453,41 @@
       style: black
       url: https://ctext.org/zh
 
-    - name: 
+    - name: 功能强大的开源的视频编辑器
       style: basic
-      url: 
+      url: https://kdenlive.org/en/#pll_switcher
 
-    - name: 
+    - name: 全历史
       style: basic
-      url: 
+      url: https://www.allhistory.com
 
-    - name: 
+    - name: 收集了程序员需要的10多个在线小工具
       style: basic
-      url:  
+      url:  https://oktools.net
       
-    - name: 
+    - name: 开源的卡通头像生成器
       style: basic
-      url: 
+      url: https://getavataaars.com
 
-    - name: 
+    - name: 今日掘金
       style: basic
-      url: 
+      url: http://zy2071.com/Fun/todayJueJin.html
 
-    - name: 
+    - name: 找电子书
       style: basic
-      url: 
+      url: https://kindle.51nazhun.pub
       
-    - name: 
+    - name: 在线截屏工具
       style: black
-      url: 
+      url: https://screendump.techulus.com
 
-    - name: 
+    - name: 图像编辑工具
       style: black
-      url: 
+      url: https://www.iloveimg.com
 
-    - name: 
+    - name: 全能下载工具
       style: basic
-      url: 
+      url: https://motrix.app/zh-CN/
 
     - name: 
       style: basic
@@ -634,29 +634,29 @@
       style: basic
       url: 一个学习资源的搜索引擎，可以搜索各种主题，返回相应的教程
 
-    - name: 
+    - name: 北京大学各种课程资料收集，让你在网上读北大
       style: basic
-      url: 
+      url: https://lib-pku.github.io
 
-    - name: 
+    - name: Linux 系统的免费教程网站，针对初学者
       style: basic
-      url: 
+      url: https://linuxjourney.com
       
-    - name: 
+    - name: 网站提供各种免费计算机教程下载
       style: black
-      url: 
+      url: https://goalkicker.com
 
-    - name: 
+    - name: 无线电天线的百科网站
       style: black
-      url: 
+      url: http://www.antenna-theory.com/m/index.php
 
-    - name: 
+    - name: 从零开始制作一块智能手表
       style: basic
-      url: 
+      url: https://imgur.com/gallery/FSBwD3g
 
-    - name: 
+    - name: 国家地理频道纪录片宇宙时空之旅
       style: basic
-      url: 
+      url: http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Faspacetimeodyssey.html
 
     - name: 
       style: basic
@@ -1058,9 +1058,9 @@
       style: black
       url: https://artsandculture.google.com/project/vermeer-paintings
 
-    - name: 
+    - name: 创意共享基金会的官方图像搜索引擎索引了3亿张图片可以免费使用
       style: basic
-      url: 
+      url: https://search.creativecommons.org
 
     - name: 
       style: basic
@@ -1416,9 +1416,9 @@
       style: black
       url: https://itch.io/games
 
-    - name: 
+    - name: 游戏《挖金子》Web 重制版
       style: basic
-      url: 
+      url: http://loderunnerwebgame.com/game/
 
     - name: 
       style: basic
@@ -1802,9 +1802,9 @@
       style: teal
       url: https://visualgo.net/zh
 
-    - name: 
+    - name: 使用人工智能生成不存在的简历
       style: basic
-      url: 
+      url: https://thisresumedoesnotexist.com
 
     - name: 
       style: basic
