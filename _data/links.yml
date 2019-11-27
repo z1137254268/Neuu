@@ -2474,7 +2474,11 @@
       
     - name: 同人誌
       style: black
-      url: https://m.b-upp.com/list/      
+      url: https://m.b-upp.com/list/ 
+      
+    - name: 同人誌2
+      style: black
+      url: https://b-upp.com      
       
     - name: 漫画
       style: pink
