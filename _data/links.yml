@@ -1546,13 +1546,13 @@
       style: black
       url: http://adobe.v404.cn/adobe/
 
-    - name: 
+    - name: 翻译为英语的武侠小说
       style: basic
-      url: 
+      url: https://www.wuxiaworld.com
 
-    - name: 
+    - name: 探索在线学习
       style: basic
-      url:   
+      url:   http://www.coursade.com
       
     - name: 
       style: teal
@@ -3522,9 +3522,9 @@
       style: basic
       url: https://mrdoob.com/lab/javascript/effects/solitaire/?url_type=39&object_type=webpage&pos=1&url_type=39&object_type=webpage&pos=1
 
-    - name: 
+    - name: 黑洞
       style: basic
-      url: 
+      url: https://codepen.io/akm2/full/rHIsa
 
     - name: 
       style: basic
