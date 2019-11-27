@@ -841,13 +841,13 @@
       style: basic
       url: https://www.templatemaker.nl/zh-cn/
 
-    - name: 
-      style: basic
-      url: 
+    - name: 一张图片会生成它的动画emojis
+      style: pink
+      url: https://makeemoji.com
 
-    - name: 
+    - name: 节奏音效制作器
       style: basic
-      url:   
+      url:   http://scribble.audio
       
     - name: 
       style: teal
@@ -1510,9 +1510,9 @@
       style: basic
       url: http://www.sdmz.net/map/
 
-    - name: 
+    - name: 手把手教你PS钢笔抠图
       style: basic
-      url:   
+      url:   https://bezier.method.ac
       
     - name: 
       style: teal
@@ -1718,7 +1718,11 @@
       
     - name: Pornhub
       style: orange
-      url: https://cn.pornhub.com/video/search?search=幼女      
+      url: https://cn.pornhub.com/video/search?search=幼女 
+      
+    - name: ACG
+      style: basic
+      url: https://zuixindizhi.net/acg.html      
                 
     - name: 优酷
       style: basic
@@ -2776,21 +2780,21 @@
       style: basic
       url: https://www.soundviz.com
 
-    - name: 
-      style: basic
-      url: 
+    - name: 与世界的“画家”们一起作画
+      style: blue
+      url: https://www.anondraw.com
 
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
-      style: basic
-      url: 
-
-    - name: 
+    - name: 与世界的“画家”们一起作画
       style: black
-      url: 
+      url: https://malmal.io/d/public
+
+    - name: 与世界的“画家”们一起作画
+      style: red
+      url: https://pxls.space
+
+    - name: 在线制作手绘动画
+      style: black
+      url: http://flipanim.com
 
     - name: 
       style: black
@@ -3434,29 +3438,29 @@
       style: black
       url: http://www.boxcar2d.com
 
-    - name: 
+    - name: 多人联机蛇蛇大作战
       style: basic
-      url: 
+      url: http://slither.io
 
-    - name: 
+    - name: 多人联机坦克大作战
       style: basic
-      url: 
+      url: https://diep.io
 
-    - name: 
+    - name: 多人联机冲冲大作战
       style: basic
-      url:   
+      url:   http://limax.io
       
-    - name: 
+    - name: 多人联机斧头大作战
       style: teal
-      url: 
+      url: https://wilds.io
 
-    - name: 
+    - name: 多人联机坦克大作战II
       style: basic
-      url: 
+      url: https://tankwars.io
 
-    - name: 
+    - name: 多人联机僵尸大作战
       style: basic
-      url: 
+      url: http://www.modd.io/play/two-houses
 
     - name: 
       style: basic
@@ -4268,7 +4272,7 @@
       style: basic
       url: https://www.chinasmack.com
 
-    - name: 回形针手册]
+    - name: 回形针手册
       style: black
       url: https://ipaperclip.net
 
@@ -4352,69 +4356,69 @@
       style: black
       url: https://www.ihatecilantro.com/frontpage.php
 
-    - name: 
+    - name: 互联网巨头实时收益
       style: black
-      url: 
+      url: https://influencermarketinghub.com/battle-of-internet-giants/
 
-    - name: 
+    - name: 世界最高桥梁全记录
       style: basic
-      url: 
+      url: http://www.highestbridges.com
 
-    - name: 
+    - name: 潇洒的文字涂鸦
       style: basic
-      url: 
+      url: http://tholman.com/texter/
 
-    - name: 
+    - name: 世界上离你最远的城市
       style: basic
-      url:   
+      url:   http://furthestcity.com
       
-    - name: 
+    - name: 宇宙刻度
       style: teal
-      url: 
+      url: https://scaleofuniverse.com
 
-    - name: 
+    - name: 世界名胜古迹数字化重现
       style: basic
-      url: 
+      url: https://www.cyark.org
 
-    - name: 
+    - name: 口袋妖怪合成神器
       style: basic
-      url: 
+      url: https://pokemon.alexonsager.net
 
-    - name: 
+    - name: 国际航班实时位置图
       style: basic
-      url: 
+      url: https://www.flightradar24.com/25.1,118.47/7
 
-    - name: 
+    - name: GiriGiriLove
       style: basic
-      url: 
+      url: http://girigiri.love
 
-    - name: 
+    - name: 全球海底光缆分布图
       style: black
-      url: 
+      url: https://www.submarinecablemap.com
 
-    - name: 
+    - name: 每分钟学习一个冷知识
       style: black
-      url: 
+      url: http://factoclock.com
 
-    - name: 
+    - name: 在线模拟各种系统升级
       style: basic
-      url: 
+      url: http://fakeupdate.net
 
-    - name: 
+    - name: 世界主流浏览器下载
       style: basic
-      url: 
+      url: https://browsehappy.com
 
-    - name: 
+    - name: 世界人口数据实时展示
       style: basic
-      url:   
+      url:   https://countrymeters.info/cn
       
-    - name: 
+    - name: 你那里能放风筝吗？
       style: teal
-      url: 
+      url: https://www.caniflyakite.com
 
-    - name: 
+    - name: 变身极速打字员
       style: basic
-      url: 
+      url: http://www.essaytyper.com
 
     - name: 
       style: basic
