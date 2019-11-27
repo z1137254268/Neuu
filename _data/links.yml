@@ -861,37 +861,37 @@
       style: basic
       url: http://stu.iplant.cn/web
 
-    - name: 
+    - name: 街机模拟器ROM下载大全
       style: basic
-      url: 
+      url: https://www.freeroms.com
 
-    - name: 
+    - name: 实用的时间标签页
       style: basic
-      url: 
+      url: http://www.clocktab.com
 
-    - name: 
+    - name: 漂亮的组合艺术文字
       style: black
-      url: 
+      url: https://wordart.com
 
-    - name: 
+    - name: 全球被黑站点统计
       style: black
-      url: 
+      url: https://www.hacked.com.cn/index.php
 
-    - name: 
+    - name: 像老司机一样开车
       style: basic
-      url: 
+      url: https://www.nihaowua.com
 
-    - name: 
+    - name: 专业在线颜值点评系统
       style: basic
-      url: 
+      url: https://www.prettyscale.com
 
-    - name: 
+    - name: 快速制作卡通头像
       style: basic
-      url:   
+      url:   https://avatarmaker.com
       
-    - name: 
+    - name: FPS射击反应力训练
       style: teal
-      url: 
+      url: https://aim400kg.com
 
     - name: 
       style: basic
@@ -1002,13 +1002,13 @@
       style: black
       url: https://drrr.com
 
-    - name: 
+    - name: 国产随机匿名聊天
       style: basic
-      url: 
+      url: http://www.unclenoway.com
 
-    - name: 
+    - name: 在线图片提色板
       style: basic
-      url: 
+      url: https://www.hdrainbow.com
 
     - name: 
       style: basic
@@ -1522,17 +1522,17 @@
       style: basic
       url: https://localingual.com
 
-    - name: 
+    - name: 瑜珈初学者迷你教程
       style: basic
-      url: 
+      url: https://namasketch.com
 
-    - name: 
+    - name: 简单彩色绘画教程
       style: basic
-      url: 
+      url: https://www.easydrawingtutorials.com
 
-    - name: 
+    - name: 纸模创意公园
       style: basic
-      url: 
+      url: https://creativepark.canon/sc/index.html
 
     - name: 
       style: black
@@ -2288,13 +2288,13 @@
       style: basic
       url: https://www.websynths.com
       
-    - name: 
+    - name: 倾听海洋的声音
       style: black
-      url: 
+      url: http://virtocean.com
 
-    - name: 
+    - name: 来自未来空间站的声音
       style: black
-      url: 
+      url: http://landemy.com
 
     - name: 
       style: basic
@@ -2820,17 +2820,17 @@
       style: basic
       url: http://www.in2white.com
 
-    - name: 
+    - name: 创意人像卡通画
       style: basic
-      url: 
+      url: https://www.tucia.net
 
-    - name: 
+    - name: 随机显示了一张汪星人的照片
       style: basic
-      url: 
+      url: https://random.dog
 
-    - name: 
+    - name: 窗内视角中的旧金山
       style: basic
-      url: 
+      url: http://windowsofsf.com
 
     - name: 
       style: black
@@ -3478,33 +3478,33 @@
       style: black
       url: http://2017.makemepulse.com
 
-    - name: 
+    - name: 多人在线流星锤大作战
       style: basic
-      url: 
+      url: http://zlap.io
 
-    - name: 
+    - name: 在线玩转指尖陀螺
       style: basic
-      url: 
+      url: https://ffffidget.com
 
-    - name: 
+    - name: 眼球逃生历险记
       style: basic
-      url:   
+      url:   http://synesthesiagame.com
       
-    - name: 
+    - name: 魔方
       style: teal
-      url: 
+      url: https://www.imagecu.be
 
-    - name: 
+    - name: 魔方
       style: basic
-      url: 
+      url: http://iamthecu.be
 
-    - name: 
+    - name: 魔方
       style: basic
-      url: 
+      url: https://www.grubiks.com
 
-    - name: 
+    - name: 疯狂数星星
       style: basic
-      url: 
+      url: https://ruyihe.com/sxx
 
     - name: 
       style: basic
@@ -4488,6 +4488,46 @@
       style: basic
       url: http://oldcomputers.net
 
+    - name: 表情涂鸦轨迹
+      style: basic
+      url:   https://remoji.com
+      
+    - name: 让奥巴马为你读文字
+      style: teal
+      url: http://talkobamato.me
+
+    - name: 随时随地感受蓝屏
+      style: basic
+      url: https://anon.blue
+
+    - name: 全球实时卫星云图
+      style: basic
+      url: https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&x=10848&y=11552
+
+    - name: 全球海航实时路线图
+      style: basic
+      url: https://www.marinetraffic.com/en/ais/home/centerx:56.2/centery:13.6/zoom:2
+
+    - name: 全国铁路车站车次信息查询
+      style: basic
+      url: https://moerail.ml
+
+    - name: 中文艺术字体生成器
+      style: black
+      url: http://www.miyizi.com
+
+    - name: 狂拽酷炫的代码特效
+      style: black
+      url: https://ertdfgcvb.xyz
+
+    - name: 在线体验3D模型
+      style: basic
+      url: https://www.ddd.online
+
+    - name: 在线政治观点小测试
+      style: basic
+      url: http://www.politiscales.net
+
     - name: 
       style: basic
       url:   
@@ -4522,6 +4562,170 @@
 
     - name: 
       style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+      
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:   
+      
+    - name: 
+      style: teal
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:   
+      
+    - name: 
+      style: teal
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:   
+      
+    - name: 
+      style: teal
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: black
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url: 
+
+    - name: 
+      style: basic
+      url:   
+      
+    - name: 
+      style: teal
       url: 
 
     - name: 
