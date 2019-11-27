@@ -709,21 +709,21 @@
       style: teal
       url: https://makeagif.com
 
-    - name: 
+    - name: 以图搜图
       style: basic
-      url: 
+      url: https://trace.moe
 
-    - name: 
+    - name: 二次元画像詳細検索
       style: basic
-      url: 
+      url: https://ascii2d.net/readme
 
-    - name: 
+    - name: 图像搜索
       style: basic
-      url: 
+      url: http://3d.iqdb.org
 
-    - name: 
+    - name: 动画截图网
       style: basic
-      url: 
+      url: https://www.acgimage.com
 
     - name: 
       style: black
@@ -2596,9 +2596,9 @@
       style: pink
       url: http://uniform.wingzero.tw
 
-    - name: 
+    - name: 作者自2011年起坚持每天拍摄一幅小人世界模型照片
       style: basic
-      url: 
+      url: http://miniature-calendar.com
 
     - name: 
       style: basic
