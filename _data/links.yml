@@ -710,64 +710,64 @@
       url: https://makeagif.com
 
     - name: 以图搜图
-      style: basic
+      style: pink
       url: https://trace.moe
 
     - name: 二次元画像詳細検索
-      style: basic
+      style: pink
       url: https://ascii2d.net/readme
 
     - name: 图像搜索
-      style: basic
+      style: pink
       url: http://3d.iqdb.org
 
     - name: 动画截图网
-      style: basic
+      style: pink
       url: https://www.acgimage.com
 
-    - name: 
+    - name: 在线暗号生成
       style: black
-      url: 
+      url: https://ango.satoru.net
 
-    - name: 
+    - name: 站长资源集合
       style: black
-      url: 
+      url: http://www.itmop.com/zhuanti/zz.html
 
-    - name: 
+    - name: 在线天文望远镜
       style: basic
-      url: 
+      url: http://www.wikisky.org
 
-    - name: 
+    - name: 在线天文望远镜
       style: basic
-      url: 
+      url: http://www.google.com.hk/sky/
 
-    - name: 
+    - name: 在线解压RAR、ZIP文件
       style: basic
-      url:   
+      url:   http://www.wobzip.org
       
-    - name: 
+    - name: 在线组装各种军用枪械
       style: teal
-      url: 
+      url: http://pimpmygun.doctornoob.com
 
-    - name: 
+    - name: 个性手工纸制模型
       style: basic
-      url: 
+      url: http://www.cubeecraft.com
 
-    - name: 
+    - name: 日语汉字读音速查
       style: basic
-      url: 
+      url: http://jp.voicedic.com
 
-    - name: 
+    - name: 汉语方言发音字典
       style: basic
-      url: 
+      url: http://cn.voicedic.com
 
-    - name: 
+    - name: CSS3生成器
       style: basic
-      url: 
+      url: http://www.css3generator.com
 
-    - name: 
+    - name: 孟坤工具箱
       style: black
-      url: 
+      url: http://tool.mkblog.cn
 
     - name: 
       style: black
@@ -1146,7 +1146,7 @@
       style: basic
       url:       
 
-  - name: 学习
+  - name:  学习
     links:
     - name: Coursera
       style: basic
@@ -1310,17 +1310,17 @@
       style: basic
       url: https://www.jiumodiary.com
 
-    - name: 
+    - name: 教你如何转笔
       style: basic
-      url: 
+      url: http://www.pentrix.com
 
-    - name: 
+    - name: 教你快速学习各国日常用语
       style: black
-      url: 
+      url: http://www.languageguide.org/cn/
 
-    - name: 
+    - name: 老外整理的汉语字源资料
       style: black
-      url: 
+      url: https://hanziyuan.net/#车
 
     - name: 
       style: basic
@@ -2108,13 +2108,13 @@
       style: basic
       url: http://www.buttonbass.com
 
-    - name: 
+    - name: 在线弹钢琴
       style: basic
-      url: 
+      url: http://www.tantan123.com
       
-    - name: 
+    - name: google电吉他扩展版
       style: black
-      url: 
+      url: http://tool.mkblog.cn/guitar/
 
     - name: 
       style: black
@@ -2600,17 +2600,17 @@
       style: basic
       url: http://miniature-calendar.com
 
-    - name: 
+    - name: 早年解放时期图片资源
       style: basic
-      url: 
+      url: https://chineseposters.net
 
-    - name: 
+    - name: 在线图片风格化
       style: basic
-      url: 
+      url: http://www.psykopaint.com
 
-    - name: 
+    - name: 在黑板上进行鼠绘创作
       style: black
-      url: 
+      url: http://kokuban.in
 
     - name: 
       style: black
@@ -3222,9 +3222,9 @@
       style: black
       url: http://808cube.com
 
-    - name: 
+    - name: 奥巴马版超级玛丽
       style: basic
-      url: 
+      url: http://superobamaworld.com
 
     - name: 
       style: basic
@@ -3932,65 +3932,65 @@
       style: basic
       url: https://www.meteorshowers.org
 
-    - name: 
+    - name: 世界各地的实时摄像头监控
       style: basic
-      url: 
+      url: https://www.earthcam.com
 
-    - name: 
+    - name: 在线感受催眠
       style: black
-      url: 
+      url: http://whitneymusicbox.org/whitneyChromatic.swf
 
-    - name: 
+    - name: 猫的无限次循环
       style: black
-      url: 
+      url: http://www.infinitecat.com/infinite/cat1.html
 
-    - name: 
+    - name: 我爱外星人
       style: basic
-      url: 
+      url: http://www.ufo-1.cn
 
-    - name: 
+    - name: 猫眼中的世界
       style: basic
-      url: 
+      url: http://www.mr-lee-catcam.de/pe_cc_u.htm
 
-    - name: 
+    - name: 在线设计南方公园主题人物
       style: basic
-      url:   
+      url:   https://www.sp-studio.de
       
-    - name: 
+    - name: 皮卡丘语翻译器
       style: teal
-      url: 
+      url: http://pikachize.eye-of-newt.com
 
-    - name: 
+    - name: N年后全球变暖的景象
       style: basic
-      url: 
+      url: http://flood.firetree.net
 
-    - name: 
+    - name: 各种软件序列号大全
       style: basic
-      url: 
+      url: http://www.youserials.com
 
-    - name: 
+    - name: 国内航班飞机实时位置显示
       style: basic
-      url: 
+      url: http://map.airsavvi.com/origin
 
-    - name: 
+    - name: 字幕库
       style: basic
-      url: 
+      url: http://www.zimuku.la
 
-    - name: 
+    - name: 无厘头联想式创意涂鸦
       style: black
-      url: 
+      url: http://www.scribbls.com
 
-    - name: 
+    - name: 国产在线卫星数字地图
       style: black
-      url: 
+      url: https://www.tianditu.gov.cn
 
-    - name: 
+    - name: 利用浮云在天空作画
       style: basic
-      url: 
+      url: http://www.klowdz.com/about/
 
-    - name: 
+    - name: 世界各地的实时摄像头监控
       style: basic
-      url: 
+      url: https://geocam.tv/#/
 
     - name: 
       style: basic
