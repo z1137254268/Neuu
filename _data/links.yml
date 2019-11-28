@@ -597,10 +597,6 @@
       style: basic
       url: http://www.esc-j.net/sdo/
 
-    - name: galgame游戏
-      style: basic
-      url: https://www.tianshie.com
-
     - name: 制作出很炫酷的PPT
       style: black
       url: https://www.beautiful.ai
@@ -1722,7 +1718,11 @@
       
     - name: galgame资源下载
       style: pink
-      url: https://www.nyagal.com
+      url: https://www.nyagal.com 
+      
+    - name: galgame游戏
+      style: basic
+      url: https://www.tianshie.com      
       
     - name: 优酷
       style: basic
