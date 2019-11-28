@@ -1680,6 +1680,10 @@
       style: basic
       url: https://www.opacg.com 
       
+    - name: 动漫花园
+      style: blue
+      url: https://www.dmhy.org      
+      
     - name: Hentai Haven
       style: pink
       url: http://hentaihaven.org 
