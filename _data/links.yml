@@ -341,10 +341,6 @@
       style: basic
       url: https://www.10wan.com 
       
-    - name: galgame资源下载
-      style: pink
-      url: https://www.nyagal.com
-      
     - name: 磁力搜
       style: basic
       url: https://biedian.me
@@ -1722,8 +1718,12 @@
       
     - name: ACG
       style: basic
-      url: https://zuixindizhi.net/acg.html      
-                
+      url: https://zuixindizhi.net/acg.html 
+      
+    - name: galgame资源下载
+      style: pink
+      url: https://www.nyagal.com
+      
     - name: 优酷
       style: basic
       url: https://youku.com/
