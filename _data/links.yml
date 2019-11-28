@@ -1746,7 +1746,11 @@
       
     - name: 2DFan
       style: pink
-      url: https://www.2dfan.com      
+      url: https://www.2dfan.com  
+      
+    - name: 忧郁的弟弟
+      style: pink
+      url: https://www.mmgal.com     
      
     - name: 优酷
       style: basic
