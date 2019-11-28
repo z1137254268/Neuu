@@ -1755,6 +1755,10 @@
     - name: 忧郁的弟弟
       style: pink
       url: https://www.mmgal.com     
+      
+    - name: Iwara
+      style: blue
+      url: https://ecchi.iwara.tv/?language=zh-hans       
      
     - name: 优酷
       style: basic
