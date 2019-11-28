@@ -1722,8 +1722,32 @@
       
     - name: galgame游戏
       style: basic
-      url: https://www.tianshie.com      
+      url: https://www.tianshie.com 
       
+    - name: KDays
+      style: pink
+      url: http://bbs.kdays.net/index   
+      
+    - name: 星空论坛
+      style: pink
+      url: https://bbs2.seikuu.com/forum.php
+      
+    - name: 终点论坛
+      style: pink
+      url: https://bbs.zdfx.net   
+      
+    - name: 花火学园
+      style: pink
+      url: https://www.say-huahuo.com/forum.php  
+      
+    - name: 绯月
+      style: pink
+      url: https://www.9moe.com/index.php  
+      
+    - name: 2DFan
+      style: pink
+      url: https://www.2dfan.com      
+     
     - name: 优酷
       style: basic
       url: https://youku.com/
