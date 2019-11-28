@@ -893,13 +893,13 @@
       style: teal
       url: https://aim400kg.com
 
-    - name: 
+    - name: 在线 Markdown 编辑器
       style: basic
-      url: 
+      url: https://markdown.lovejade.cn
 
-    - name: 
+    - name: 音乐加密解锁
       style: basic
-      url: 
+      url: https://tool.ixarea.com/music/
 
     - name: 
       style: basic
@@ -1554,13 +1554,13 @@
       style: basic
       url:   http://www.coursade.com
       
-    - name: 
+    - name: 免费英文电子书搜索
       style: teal
-      url: 
+      url: http://girlebooks.com
 
-    - name: 
-      style: basic
-      url: 
+    - name: 非小说书转变成只需要十分钟就能看完的文章，让你更高效地看书
+      style: black
+      url: https://sipreads.com
 
     - name: 
       style: basic
